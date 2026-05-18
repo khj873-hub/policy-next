@@ -1,6 +1,7 @@
 'use client'
 import { useEffect, useRef, Suspense } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
+import { useSession } from 'next-auth/react'
 import { useStore } from '@/lib/store'
 import { S } from '@/lib/styles'
 import { IDEA_QUESTIONS } from '@/lib/constants'
@@ -11,6 +12,7 @@ import type { Message, IdeaData } from '@/lib/types'
 function ChatContent() {
   const router = useRouter()
   const params = useSearchParams()
+  const { data: session } = useSession()
   const bottomRef = useRef<HTMLDivElement>(null)
   const inputRef = useRef<HTMLTextAreaElement>(null)
 
@@ -56,6 +58,7 @@ function ChatContent() {
           messages: msgs.map((m) => ({ role: m.role, content: m.content })),
           profile: savedProfile,
           ideaContext,
+          userEmail: session?.user?.email || null,
         }),
       })
       const data = await res.json()
@@ -122,7 +125,7 @@ function ChatContent() {
       const res = await fetch('/api/plan', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ profile: savedProfile, selectedProgram, ideaData: data }),
+        body: JSON.stringify({ profile: savedProfile, selectedProgram, ideaData: data, userEmail: session?.user?.email || null }),
       })
       const json = await res.json()
       setPlanContent(json.content?.map((c: { text?: string }) => c.text || '').join('') || '생성 실패')
