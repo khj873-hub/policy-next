@@ -1,6 +1,18 @@
 import { NextRequest, NextResponse } from 'next/server'
+import { readFile } from 'fs/promises'
+import { join } from 'path'
 import { buildChatPrompt } from '@/lib/prompts'
-import type { UserProfile } from '@/lib/types'
+import type { UserProfile, PolicyItem } from '@/lib/types'
+
+async function loadPolicies(): Promise<PolicyItem[]> {
+  try {
+    const raw = await readFile(join(process.cwd(), 'public', 'policies-cache.json'), 'utf-8')
+    const cache = JSON.parse(raw)
+    return cache.items || []
+  } catch {
+    return []
+  }
+}
 
 export async function POST(req: NextRequest) {
   const { messages, profile, ideaContext } = await req.json() as {
@@ -9,7 +21,8 @@ export async function POST(req: NextRequest) {
     ideaContext?: string | null
   }
 
-  // 시스템 프롬프트 캐싱: 동일 프롬프트 반복 호출 시 입력 비용 90% 절감
+  const policies = await loadPolicies()
+
   const res = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
@@ -19,13 +32,13 @@ export async function POST(req: NextRequest) {
       'anthropic-beta': 'prompt-caching-2024-07-31',
     },
     body: JSON.stringify({
-      model: 'claude-haiku-4-5-20251001', // 채팅은 Haiku — Sonnet 대비 비용 75% 절감
-      max_tokens: 500,                     // 채팅 응답은 500으로 충분
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 500,
       system: [
         {
           type: 'text',
-          text: buildChatPrompt(profile, ideaContext),
-          cache_control: { type: 'ephemeral' }, // 5분간 캐시 유지
+          text: buildChatPrompt(profile, ideaContext, policies),
+          cache_control: { type: 'ephemeral' },
         },
       ],
       messages,
