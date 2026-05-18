@@ -1,6 +1,7 @@
 'use client'
 import { useEffect, useState } from 'react'
 import { useRouter } from 'next/navigation'
+import { useSession } from 'next-auth/react'
 import { useStore } from '@/lib/store'
 import { S } from '@/lib/styles'
 import { EXAMPLE_QUERIES, DEADLINE_LIST } from '@/lib/constants'
@@ -8,6 +9,7 @@ import type { PolicyItem } from '@/lib/types'
 
 export default function HomePage() {
   const router = useRouter()
+  const { data: session } = useSession()
   const { input, setInput, savedProfile, loadProfile, setMessages, setChatLoading } = useStore()
   const hasProfile = savedProfile.region || savedProfile.industry || savedProfile.age
   const [policies, setPolicies] = useState<PolicyItem[]>(DEADLINE_LIST.map((d, i) => ({
@@ -65,8 +67,11 @@ export default function HomePage() {
             </div>
           </div>
           <button style={S.profileBtn} onClick={() => router.push('/profile')}>
-            <span style={{ fontSize: 16 }}>👤</span>
-            {hasProfile && <span style={S.profileDot} />}
+            {session?.user?.image
+              ? <img src={session.user.image} alt="avatar" style={S.headerAvatar} />
+              : <span style={{ fontSize: 16 }}>👤</span>
+            }
+            {(hasProfile || session) && <span style={S.profileDot} />}
           </button>
         </header>
 

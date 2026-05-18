@@ -220,6 +220,36 @@ export const S: Styles = {
     borderRadius: 10, color: '#94A3B8', fontSize: 13, fontWeight: 600,
     cursor: 'pointer',
   },
+  // Google Auth styles
+  googleSection: {
+    margin: '16px 20px 0',
+    background: 'rgba(255,255,255,0.03)',
+    border: '1px solid rgba(255,255,255,0.07)',
+    borderRadius: 16, overflow: 'hidden',
+  },
+  googleLoading: { padding: 20, textAlign: 'center', color: '#64748B', fontSize: 13 },
+  googleProfile: {
+    display: 'flex', alignItems: 'center', gap: 12, padding: 16,
+  },
+  googleAvatar: { width: 44, height: 44, borderRadius: '50%', flexShrink: 0 },
+  googleInfo: { flex: 1, minWidth: 0 },
+  googleName: { fontSize: 14, fontWeight: 700, color: '#F1F5F9', marginBottom: 2 },
+  googleEmail: { fontSize: 12, color: '#64748B', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' },
+  googleSignOutBtn: {
+    flexShrink: 0, padding: '6px 12px',
+    background: 'rgba(239,68,68,0.1)', border: '1px solid rgba(239,68,68,0.2)',
+    borderRadius: 8, color: '#F87171', fontSize: 12, fontWeight: 600, cursor: 'pointer',
+  },
+  googleLoginWrap: { padding: '20px 16px', textAlign: 'center' },
+  googleLoginDesc: { fontSize: 13, color: '#94A3B8', lineHeight: 1.6, marginBottom: 14, margin: '0 0 14px' },
+  googleLoginBtn: {
+    display: 'inline-flex', alignItems: 'center', gap: 10,
+    padding: '12px 20px', width: '100%', justifyContent: 'center',
+    background: '#fff', borderRadius: 10, border: 'none',
+    fontSize: 14, fontWeight: 600, color: '#1F2937', cursor: 'pointer',
+    boxShadow: '0 2px 8px rgba(0,0,0,0.2)',
+  },
+  headerAvatar: { width: 32, height: 32, borderRadius: '50%', border: '2px solid rgba(99,102,241,0.5)' },
   featureGrid: { display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 10 },
   featureCard: {
     background: 'rgba(255,255,255,0.03)',

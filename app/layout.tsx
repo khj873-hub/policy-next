@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import '@/styles/global.css'
+import SessionWrapper from '@/components/SessionWrapper'
 
 export const metadata: Metadata = {
   title: '퍼펙트 정부지원정책 | AI 맞춤 정책자금 매칭',
@@ -10,7 +11,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="ko">
       <body style={{ margin: 0, padding: 0, background: '#0F0F1E' }}>
-        {children}
+        <SessionWrapper>{children}</SessionWrapper>
       </body>
     </html>
   )
