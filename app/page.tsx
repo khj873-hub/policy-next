@@ -1,16 +1,30 @@
 'use client'
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { useStore } from '@/lib/store'
 import { S } from '@/lib/styles'
 import { EXAMPLE_QUERIES, DEADLINE_LIST } from '@/lib/constants'
+import type { PolicyItem } from '@/lib/types'
 
 export default function HomePage() {
   const router = useRouter()
   const { input, setInput, savedProfile, loadProfile, setMessages, setChatLoading } = useStore()
   const hasProfile = savedProfile.region || savedProfile.industry || savedProfile.age
+  const [policies, setPolicies] = useState<PolicyItem[]>(DEADLINE_LIST.map((d, i) => ({
+    id: String(i), title: d.title, dday: d.dday, region: d.region, amount: d.amount,
+    target: '', deadline: '', url: '',
+  })))
+  const [policiesLoading, setPoliciesLoading] = useState(true)
 
   useEffect(() => { loadProfile() }, [])
+
+  useEffect(() => {
+    fetch('/api/policies?pageUnit=10')
+      .then((r) => r.json())
+      .then((d) => { if (d.items?.length) setPolicies(d.items.slice(0, 6)) })
+      .catch(() => {})
+      .finally(() => setPoliciesLoading(false))
+  }, [])
 
   const startChat = async (query: string) => {
     if (!query.trim()) return
@@ -102,17 +116,21 @@ export default function HomePage() {
                   <span style={S.fireEmoji}>🔥</span> 마감 임박 공고
                 </h2>
               </div>
-              <span style={S.sectionCount}>{DEADLINE_LIST.length}건</span>
+              <span style={S.sectionCount}>{policiesLoading ? '...' : `${policies.length}건`}</span>
             </div>
             <div style={S.deadlineGrid}>
-              {DEADLINE_LIST.map((item, i) => (
-                <button key={i} style={S.deadlineCard}
-                  onClick={() => startChat(`${item.title} 자격 조건이랑 신청 방법 알려줘`)}>
+              {policies.map((item) => (
+                <button key={item.id} style={S.deadlineCard}
+                  onClick={() => item.url
+                    ? startChat(`${item.title} 자격 조건이랑 신청 방법 알려줘`)
+                    : startChat(`${item.title} 자격 조건이랑 신청 방법 알려줘`)}>
                   <div style={S.deadlineTop}>
                     <div style={{
                       ...S.ddayBadge,
-                      background: item.dday <= 7 ? 'linear-gradient(135deg, #FF4D6D, #FF8C42)' : 'linear-gradient(135deg, #FFB800, #FF8C42)',
-                    }}>D-{item.dday}</div>
+                      background: item.dday <= 7 ? 'linear-gradient(135deg, #FF4D6D, #FF8C42)'
+                        : item.dday >= 999 ? 'linear-gradient(135deg, #6366F1, #A855F7)'
+                        : 'linear-gradient(135deg, #FFB800, #FF8C42)',
+                    }}>{item.dday >= 999 ? '상시' : `D-${item.dday}`}</div>
                     <span style={S.deadlineRegion}>{item.region}</span>
                   </div>
                   <div style={S.deadlineTitle}>{item.title}</div>
