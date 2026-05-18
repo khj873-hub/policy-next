@@ -8,8 +8,6 @@ type User = { id: string; email: string; name: string; avatar: string; region: s
 type Chat = { id: string; user_email: string; question: string; answer: string; created_at: string }
 type Plan = { id: string; user_email: string; program: string; problem: string; target_customer: string; goal: string; created_at: string }
 
-const ADMIN_EMAIL = process.env.NEXT_PUBLIC_ADMIN_EMAIL || 'jinusoft19@gmail.com'
-
 const C = {
   root: { minHeight: '100vh', background: '#0F0F1A', color: '#E2E8F0', fontFamily: 'system-ui, sans-serif' },
   header: { background: '#1A1A2E', borderBottom: '1px solid rgba(255,255,255,0.08)', padding: '14px 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' },
@@ -46,7 +44,7 @@ export default function AdminPage() {
   const [plans, setPlans] = useState<Plan[]>([])
   const [expanded, setExpanded] = useState<string | null>(null)
 
-  const isAdmin = session?.user?.email === ADMIN_EMAIL
+  const isAdmin = (session?.user as { isAdmin?: boolean })?.isAdmin
 
   useEffect(() => {
     if (!isAdmin) return

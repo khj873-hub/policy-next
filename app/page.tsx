@@ -4,7 +4,7 @@ import { useRouter } from 'next/navigation'
 import { useSession } from 'next-auth/react'
 import { useStore } from '@/lib/store'
 import { S } from '@/lib/styles'
-import { EXAMPLE_QUERIES, DEADLINE_LIST } from '@/lib/constants'
+import { EXAMPLE_QUERIES } from '@/lib/constants'
 import type { PolicyItem } from '@/lib/types'
 
 export default function HomePage() {
@@ -12,10 +12,7 @@ export default function HomePage() {
   const { data: session } = useSession()
   const { input, setInput, savedProfile, loadProfile, setMessages, setChatLoading } = useStore()
   const hasProfile = savedProfile.region || savedProfile.industry || savedProfile.age
-  const [policies, setPolicies] = useState<PolicyItem[]>(DEADLINE_LIST.map((d, i) => ({
-    id: String(i), title: d.title, dday: d.dday, region: d.region, amount: d.amount,
-    target: '', deadline: '', url: '',
-  })))
+  const [policies, setPolicies] = useState<PolicyItem[]>([])
   const [latest, setLatest] = useState<PolicyItem[]>([])
   const [latestCount, setLatestCount] = useState(10)
   const [policiesLoading, setPoliciesLoading] = useState(true)
@@ -43,8 +40,7 @@ export default function HomePage() {
 
   return (
     <div style={S.root}>
-      <style>{''}</style>
-      <div style={S.bgGradient} />
+<div style={S.bgGradient} />
       <div style={S.bgGrain} />
       <div style={S.page}>
         <header style={S.header}>

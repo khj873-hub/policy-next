@@ -174,6 +174,7 @@ function ChatContent() {
               onGeneratePlan={generatePlan}
               selectedProgram={selectedProgram}
               ideaPhase={ideaPhase}
+              planLoading={planLoading}
             />
           ))}
           {chatLoading && <TypingIndicator />}

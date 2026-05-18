@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 퍼펙트 정부지원정책 AI
 
-## Getting Started
+한국 중소기업·스타트업을 위한 AI 기반 정부지원 공고 추천 및 사업계획서 자동 생성 서비스.
 
-First, run the development server:
+## 주요 기능
+
+- **AI 공고 추천**: Claude Haiku 기반 채팅으로 기업마당 실데이터에서 맞춤 공고 추천
+- **사업계획서 자동 생성**: 3단계 아이디어 수집 후 Claude Sonnet으로 6섹션 초안 생성
+- **최신 공고 목록**: 기업마당 API 연동, D-day 순/최신순 정렬
+- **Google 간편 로그인**: NextAuth.js + Supabase 사용자 관리
+- **관리자 대시보드**: 가입이력·채팅이력·사업계획서 통계 (/admin)
+
+## 기술 스택
+
+| 영역 | 기술 |
+|---|---|
+| 프레임워크 | Next.js 14 App Router, TypeScript |
+| 상태관리 | Zustand |
+| AI | Anthropic Claude (Haiku 4.5 채팅 / Sonnet 4.6 사업계획서) |
+| 인증 | NextAuth.js v4, Google OAuth |
+| DB | Supabase (PostgreSQL, Tokyo 리전) |
+| 데이터 | 기업마당 API → GitHub Actions 일일 캐시 갱신 |
+| 배포 | Vercel (hnd1 Tokyo) |
+
+## 로컬 실행
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+# .env.local 설정 (아래 환경변수 섹션 참조)
+npm run dev        # http://localhost:3001
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 환경변수 (.env.local)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+ANTHROPIC_API_KEY=           # Anthropic API 키
+BIZINFO_API_KEY=             # 기업마당 API 키 (MF5MYV)
+GOOGLE_CLIENT_ID=            # Google OAuth 클라이언트 ID
+GOOGLE_CLIENT_SECRET=        # Google OAuth 시크릿
+NEXTAUTH_SECRET=             # NextAuth 시크릿 (랜덤 문자열)
+NEXTAUTH_URL=http://localhost:3001
+NEXT_PUBLIC_SUPABASE_URL=    # Supabase 프로젝트 URL
+NEXT_PUBLIC_SUPABASE_ANON_KEY=  # Supabase anon key
+SUPABASE_SERVICE_ROLE_KEY=   # Supabase service role key
+ADMIN_EMAIL=                 # 관리자 Google 계정 이메일
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Supabase 스키마
 
-## Learn More
+```sql
+-- users, chats, plans 테이블
+-- supabase/migrations/ 참조
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 공고 데이터 갱신
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+기업마당 API는 한국 IP만 허용. 로컬에서 수동 갱신:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+node scripts/fetch-policies.mjs
+```
 
-## Deploy on Vercel
+GitHub Actions (`.github/workflows/refresh-policies.yml`)로 매일 KST 10:00 자동 갱신.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 배포
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Production**: https://policy-next.vercel.app
+- Vercel에서 이 repo 연결 후 환경변수 설정
+- `main` 브랜치 push 시 자동 배포

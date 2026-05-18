@@ -54,5 +54,5 @@ export async function POST(req: NextRequest) {
     })
   }
 
-  return NextResponse.json(data)
+  return NextResponse.json({ content: data.content })
 }

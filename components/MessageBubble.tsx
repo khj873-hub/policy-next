@@ -8,6 +8,7 @@ type Props = {
   onGeneratePlan: (data?: Message['ideaData']) => void
   selectedProgram: string
   ideaPhase: IdeaPhase
+  planLoading: boolean
 }
 
 function renderText(text: string, isUser: boolean) {
@@ -35,7 +36,7 @@ function renderText(text: string, isUser: boolean) {
   })
 }
 
-export default function MessageBubble({ msg, onTriggerIdea, onGeneratePlan, selectedProgram, ideaPhase }: Props) {
+export default function MessageBubble({ msg, onTriggerIdea, onGeneratePlan, selectedProgram, ideaPhase, planLoading }: Props) {
   const isUser = msg.role === 'user'
   const isQuestion = msg.type === 'question'
 
@@ -66,8 +67,10 @@ export default function MessageBubble({ msg, onTriggerIdea, onGeneratePlan, sele
       {msg.type === 'ready' && (
         <div style={S.actionCard}>
           <div style={S.actionSparkle}>✨</div>
-          <button style={S.actionPrimary} onClick={() => onGeneratePlan(msg.ideaData)}>
-            <span>AI 사업계획서 초안 생성</span>
+          <button style={{ ...S.actionPrimary, opacity: planLoading ? 0.5 : 1 }}
+            disabled={planLoading}
+            onClick={() => onGeneratePlan(msg.ideaData)}>
+            <span>{planLoading ? '생성 중...' : 'AI 사업계획서 초안 생성'}</span>
             <span style={{ fontSize: 16 }}>→</span>
           </button>
           <div style={S.actionNote}>입력하신 아이디어가 자동으로 반영됩니다</div>
