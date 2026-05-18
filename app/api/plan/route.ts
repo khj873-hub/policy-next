@@ -9,17 +9,30 @@ export async function POST(req: NextRequest) {
     ideaData: IdeaData
   }
 
+  // 사업계획서는 6섹션 정밀 작성 → Sonnet 유지, max_tokens 2000으로 확대
   const res = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
       'x-api-key': process.env.ANTHROPIC_API_KEY!,
       'anthropic-version': '2023-06-01',
+      'anthropic-beta': 'prompt-caching-2024-07-31',
     },
     body: JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 1000,
-      messages: [{ role: 'user', content: buildPlanPrompt(profile, selectedProgram, ideaData) }],
+      model: 'claude-sonnet-4-6',  // 사업계획서는 Sonnet 유지 (정밀도 필요)
+      max_tokens: 2000,             // 6섹션 충분히 작성되도록 확대
+      messages: [
+        {
+          role: 'user',
+          content: [
+            {
+              type: 'text',
+              text: buildPlanPrompt(profile, selectedProgram, ideaData),
+              cache_control: { type: 'ephemeral' },
+            },
+          ],
+        },
+      ],
     }),
   })
 
