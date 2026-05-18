@@ -14,16 +14,22 @@ export default function HomePage() {
     id: String(i), title: d.title, dday: d.dday, region: d.region, amount: d.amount,
     target: '', deadline: '', url: '',
   })))
+  const [latest, setLatest] = useState<PolicyItem[]>([])
+  const [latestCount, setLatestCount] = useState(10)
   const [policiesLoading, setPoliciesLoading] = useState(true)
 
   useEffect(() => { loadProfile() }, [])
 
   useEffect(() => {
-    fetch('/api/policies?pageUnit=10')
+    fetch('/api/policies?pageUnit=6&sort=dday')
       .then((r) => r.json())
-      .then((d) => { if (d.items?.length) setPolicies(d.items.slice(0, 6)) })
+      .then((d) => { if (d.items?.length) setPolicies(d.items) })
       .catch(() => {})
       .finally(() => setPoliciesLoading(false))
+    fetch('/api/policies?pageUnit=50&sort=latest')
+      .then((r) => r.json())
+      .then((d) => { if (d.items?.length) setLatest(d.items) })
+      .catch(() => {})
   }, [])
 
   const startChat = async (query: string) => {
@@ -141,6 +147,43 @@ export default function HomePage() {
                 </button>
               ))}
             </div>
+          </div>
+
+          <div style={S.section}>
+            <div style={S.sectionHead}>
+              <div>
+                <div style={{ ...S.sectionLabel, color: '#34D399' }}>LATEST</div>
+                <h2 style={S.sectionTitle}>✨ 최신 공고</h2>
+              </div>
+              <span style={S.sectionCount}>{latest.length > 0 ? `${latest.length}건` : '...'}</span>
+            </div>
+            <div style={S.latestList}>
+              {latest.slice(0, latestCount).map((item) => (
+                <button key={item.id} style={S.latestItem}
+                  onClick={() => startChat(`${item.title} 자격 조건이랑 신청 방법 알려줘`)}>
+                  <div style={S.latestItemLeft}>
+                    <div style={S.latestItemTitle}>{item.title}</div>
+                    <div style={S.latestItemMeta}>
+                      {item.target && <span style={S.latestItemTarget}>{item.target}</span>}
+                      <span style={S.latestItemDate}>
+                        {item.createdAt ? item.createdAt.slice(0, 10) : ''}
+                      </span>
+                    </div>
+                  </div>
+                  <div style={S.latestItemRight}>
+                    <span style={S.latestItemRegion}>{item.region}</span>
+                    <span style={S.latestItemDday}>
+                      {item.dday >= 999 ? '상시' : `D-${item.dday}`}
+                    </span>
+                  </div>
+                </button>
+              ))}
+            </div>
+            {latest.length > latestCount && (
+              <button style={S.moreBtn} onClick={() => setLatestCount((n) => n + 10)}>
+                더보기 ({latest.length - latestCount}건 남음)
+              </button>
+            )}
           </div>
 
           <div style={S.section}>

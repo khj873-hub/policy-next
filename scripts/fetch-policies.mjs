@@ -77,6 +77,7 @@ async function main() {
       target: item.trgetNm || '',
       deadline: item.reqstBeginEndDe || '',
       url: item.pblancUrl || '',
+      createdAt: item.creatPnttm || '',
     }))
     .filter((i) => i.dday >= 0)
     .sort((a, b) => a.dday - b.dday)

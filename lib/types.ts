@@ -8,6 +8,7 @@ export type PolicyItem = {
   target: string
   deadline: string
   url: string
+  createdAt?: string
 }
 export type IdeaData = { problem: string; target: string; goal: string }
 export type IdeaPhase = null | 'collecting' | 'done'

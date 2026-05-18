@@ -6,6 +6,7 @@ export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url)
   const keyword = searchParams.get('keyword') || ''
   const pageUnit = parseInt(searchParams.get('pageUnit') || '20', 10)
+  const sort = searchParams.get('sort') || 'dday' // 'dday' | 'latest'
 
   try {
     const filePath = join(process.cwd(), 'public', 'policies-cache.json')
@@ -16,6 +17,7 @@ export async function GET(req: NextRequest) {
       items: {
         id: string; title: string; dday: number; region: string
         amount: string; target: string; deadline: string; url: string
+        createdAt?: string
       }[]
     }
 
@@ -24,6 +26,12 @@ export async function GET(req: NextRequest) {
       const kw = keyword.toLowerCase()
       items = items.filter(
         (i) => i.title.includes(kw) || i.region.includes(kw) || i.target.includes(kw)
+      )
+    }
+
+    if (sort === 'latest') {
+      items = [...items].sort((a, b) =>
+        (b.createdAt || '').localeCompare(a.createdAt || '')
       )
     }
 
