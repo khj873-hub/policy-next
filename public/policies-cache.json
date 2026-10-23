@@ -1,396 +1,11 @@
 {
-  "updatedAt": "2026. 10. 21. PM 2:41:36",
-  "total": 1438,
+  "updatedAt": "2026. 10. 23. PM 2:42:37",
+  "total": 1457,
   "items": [
-    {
-      "id": "PBLN_000000000127292",
-      "title": "[경북] 2026년 원자력 산학공동 프로젝트 지원사업 참여기업 모집 공고(지역원자력산업 기반 에너지기술공유대학(ETU))",
-      "dday": 0,
-      "region": "경북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-16 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127292",
-      "createdAt": "2026-10-19 10:16:44"
-    },
-    {
-      "id": "PBLN_000000000127244",
-      "title": "2026년 대구국제기계산업대전 참가지원 추가모집 공고(생활지원을 위한 서비스로봇 부품 기술지원 기반구축 사업)",
-      "dday": 0,
-      "region": "경기",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-15 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127244",
-      "createdAt": "2026-10-15 13:30:59"
-    },
-    {
-      "id": "PBLN_000000000127236",
-      "title": "[전남광주] 2026년 가전공장AI기반자율제조운영기술개발 수혜기업 모집 재공고(기계장비산업기술개발사업)",
-      "dday": 0,
-      "region": "산업",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-14 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127236",
-      "createdAt": "2026-10-15 11:16:45"
-    },
-    {
-      "id": "PBLN_000000000127229",
-      "title": "[전북] 2026년 전북해양수산창업투자지원사업 기술고도화 지원사업 모집 재공고",
-      "dday": 0,
-      "region": "전북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-14 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127229",
-      "createdAt": "2026-10-15 10:30:00"
-    },
-    {
-      "id": "PBLN_000000000127223",
-      "title": "[인천] 강화군 2026년 농식품 수출포장재 지원사업 추가모집 공고",
-      "dday": 0,
-      "region": "인천",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-15 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127223",
-      "createdAt": "2026-10-15 10:00:13"
-    },
-    {
-      "id": "PBLN_000000000127186",
-      "title": "2026년 4차 게임사 프로젝트 현장교육 참여기업(게임사) 모집 공고",
-      "dday": 0,
-      "region": "대구",
-      "amount": "최대 150만원",
-      "target": "중소기업",
-      "deadline": "2026-10-13 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127186",
-      "createdAt": "2026-10-14 10:26:34"
-    },
-    {
-      "id": "PBLN_000000000127182",
-      "title": "[부산] 2026년 코리아그랜드페스티벌과 함께하는 달달 더 마켓 참가기업 모집 공고",
-      "dday": 0,
-      "region": "부산",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-08 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127182",
-      "createdAt": "2026-10-14 10:07:15"
-    },
-    {
-      "id": "PBLN_000000000127166",
-      "title": "[전북] 부안군 2026년 음식점 위생환경 개선 클리닝 지원사업 희망업소 모집 공고",
-      "dday": 0,
-      "region": "전북",
-      "amount": "최대 83만원",
-      "target": "중소기업",
-      "deadline": "2026-10-12 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127166",
-      "createdAt": "2026-10-13 13:48:55"
-    },
-    {
-      "id": "PBLN_000000000127154",
-      "title": "[경북] 2026년 2차 관광진흥기금 융자사업 공고",
-      "dday": 0,
-      "region": "경북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-08 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127154",
-      "createdAt": "2026-10-13 13:23:26"
-    },
-    {
-      "id": "PBLN_000000000127124",
-      "title": "[경남] 산청군 2026년 착한가격업소 추가 모집 공고",
-      "dday": 0,
-      "region": "경남",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-07 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127124",
-      "createdAt": "2026-10-12 13:58:58"
-    },
-    {
-      "id": "PBLN_000000000127122",
-      "title": "[경북] 포항시 2026년 2차 지역산업위기대응 맞춤형 지원사업 참여기업 추가모집(전시회) 공고",
-      "dday": 0,
-      "region": "경북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-12 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127122",
-      "createdAt": "2026-10-12 13:52:27"
-    },
-    {
-      "id": "PBLN_000000000127110",
-      "title": "2027년 상반기 국제식품박람회(종합) 참가업체 모집 공고(농식품 수출지원사업 모집)",
-      "dday": 0,
-      "region": "농림",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-08 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127110",
-      "createdAt": "2026-10-12 13:22:24"
-    },
-    {
-      "id": "PBLN_000000000127090",
-      "title": "[세종] 2026년 3차 중소기업 정보보호 지원 사업 수요기업 모집 재공고",
-      "dday": 0,
-      "region": "과학",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-08 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127090",
-      "createdAt": "2026-10-12 09:33:09"
-    },
-    {
-      "id": "PBLN_000000000127084",
-      "title": "[전북] 2026년 탄소저감형 테스트베드 활용 지원 참여기업 모집 공고(디지털트윈 농ㆍ축산시설 탄소 배출량 통합관리 플랫폼 개발 및 실증사업)",
-      "dday": 0,
-      "region": "산업",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-07 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127084",
-      "createdAt": "2026-10-08 13:31:38"
-    },
-    {
-      "id": "PBLN_000000000127072",
-      "title": "[대전] 2026년 스페인 바르셀로나 스마트시티 엑스포 단체참가 참여기업 모집 공고(간접출전)",
-      "dday": 0,
-      "region": "대전",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-07 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127072",
-      "createdAt": "2026-10-08 11:18:52"
-    },
-    {
-      "id": "PBLN_000000000127069",
-      "title": "[강원] 양양군 2026년 3차 중소기업 환경개선 지원사업 참가기업 모집 공고",
-      "dday": 0,
-      "region": "강원",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-07 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127069",
-      "createdAt": "2026-10-08 11:06:16"
-    },
-    {
-      "id": "PBLN_000000000127059",
-      "title": "[제주] 2026년 3차 SW융합 해외진출 패키지 지원사업 모집 공고(대구ㆍ제주 SW융합클러스터2.0사업)",
-      "dday": 0,
-      "region": "제주",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-06 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127059",
-      "createdAt": "2026-10-08 10:14:06"
-    },
-    {
-      "id": "PBLN_000000000127032",
-      "title": "[서울] 성북구 2026년 길음청년희망스토어 청년창업팀(12호점) 모집 공고",
-      "dday": 0,
-      "region": "서울",
-      "amount": "지원금 있음",
-      "target": "창업벤처",
-      "deadline": "2026-10-07 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127032",
-      "createdAt": "2026-10-07 11:11:34"
-    },
-    {
-      "id": "PBLN_000000000127026",
-      "title": "[대구] 2026년 디지털봉제클러스터맵 구축 및 활용지원 일감연계 샘플개발 제조기업 모집 공고",
-      "dday": 0,
-      "region": "전국",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-06 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127026",
-      "createdAt": "2026-10-07 09:31:36"
-    },
-    {
-      "id": "PBLN_000000000127008",
-      "title": "[충남] 2026년 청년친화기업 모집(기간연장) 재공고",
-      "dday": 0,
-      "region": "충남",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-09-01 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127008",
-      "createdAt": "2026-10-06 13:30:00"
-    },
-    {
-      "id": "PBLN_000000000126865",
-      "title": "2026년 10월 서리풀 소상공인 창업 클리닉 모집 공고",
-      "dday": 0,
-      "region": "서울",
-      "amount": "지원금 있음",
-      "target": "소상공인",
-      "deadline": "2026-09-29 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126865",
-      "createdAt": "2026-09-30 09:30:03"
-    },
-    {
-      "id": "PBLN_000000000126756",
-      "title": "2026년 4차 소재부품기술개발사업 신규지원 대상과제 공고",
-      "dday": 0,
-      "region": "산업",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-09-22 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126756",
-      "createdAt": "2026-09-23 11:05:40"
-    },
-    {
-      "id": "PBLN_000000000127271",
-      "title": "[강원] 2026년 하반기 강원특별자치도 우수ㆍ모두애 마을기업 모집 공고",
-      "dday": 1,
-      "region": "강원",
-      "amount": "지원금 있음",
-      "target": "마을기업",
-      "deadline": "2026-10-15 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127271",
-      "createdAt": "2026-10-16 11:05:47"
-    },
-    {
-      "id": "PBLN_000000000127254",
-      "title": "[부산] 2026년 하반기 사회적경제 공공구매 페어 참가기업 모집 연장 공고",
-      "dday": 1,
-      "region": "부산",
-      "amount": "지원금 있음",
-      "target": "사회적기업",
-      "deadline": "2026-09-21 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127254",
-      "createdAt": "2026-10-15 14:07:04"
-    },
-    {
-      "id": "PBLN_000000000127252",
-      "title": "[서울] 강남구 2026년 소싱인마켓 강남관 참가기업 추가 모집 공고",
-      "dday": 1,
-      "region": "서울",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-12 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127252",
-      "createdAt": "2026-10-15 13:55:32"
-    },
-    {
-      "id": "PBLN_000000000127245",
-      "title": "[부산] 남구 2026년 소상공인 홍보 장터(너와마켓) 참여상인 모집 공고",
-      "dday": 1,
-      "region": "부산",
-      "amount": "지원금 있음",
-      "target": "소상공인",
-      "deadline": "2026-10-14 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127245",
-      "createdAt": "2026-10-15 13:34:07"
-    },
-    {
-      "id": "PBLN_000000000127228",
-      "title": "[대전ㆍ세종] 2026년 코리아 그랜드 페스티벌 지역 소상공인 라이브커머스 참여기업 추가 모집 공고",
-      "dday": 1,
-      "region": "전국",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-14 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127228",
-      "createdAt": "2026-10-15 10:26:34"
-    },
-    {
-      "id": "PBLN_000000000127128",
-      "title": "[경남] 거창군 2026년 유기질비료 지원사업 2차 추가 신청 공고",
-      "dday": 1,
-      "region": "경남",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-08 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127128",
-      "createdAt": "2026-10-12 14:20:19"
-    },
-    {
-      "id": "PBLN_000000000127112",
-      "title": "[충북] 2026년 콘텐츠기업 글로벌 스케일업(Scale-up) 지원사업 공고",
-      "dday": 1,
-      "region": "충북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-08 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127112",
-      "createdAt": "2026-10-12 13:30:16"
-    },
-    {
-      "id": "PBLN_000000000127102",
-      "title": "[전북] 2026년 2차 중소기업 정보보호 지원 사업 수요기업 모집 공고",
-      "dday": 1,
-      "region": "전북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-08 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127102",
-      "createdAt": "2026-10-12 10:55:07"
-    },
-    {
-      "id": "PBLN_000000000127089",
-      "title": "[세종] 중소기업 기술도약 지원사업 모집 공고(세종지역 산업기술단지 거점기능강화사업 기술ㆍ인프라 연계형)",
-      "dday": 1,
-      "region": "세종",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-08 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127089",
-      "createdAt": "2026-10-12 09:30:53"
-    },
-    {
-      "id": "PBLN_000000000127078",
-      "title": "2026년 블록체인 퓨처 챌린지 기업 모집 공고(블록체인 기업 IR 경진대회)",
-      "dday": 1,
-      "region": "과학",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-07 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127078",
-      "createdAt": "2026-10-08 13:10:29"
-    },
-    {
-      "id": "PBLN_000000000126937",
-      "title": "[세종] 제9회 세종시 기업인의 날 우수기업 및 유공자 선정계획 공고",
-      "dday": 1,
-      "region": "세종",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-10-01 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126937",
-      "createdAt": "2026-10-01 13:49:26"
-    },
-    {
-      "id": "PBLN_000000000126933",
-      "title": "[경남] 2026년 가족친화인증기업 문화활동비 지원사업 참여기업 모집 공고(일ㆍ생활균형지원사업)",
-      "dday": 1,
-      "region": "경남",
-      "amount": "최대 300만원",
-      "target": "중소기업",
-      "deadline": "2026-10-01 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126933",
-      "createdAt": "2026-10-01 13:38:59"
-    },
-    {
-      "id": "PBLN_000000000126805",
-      "title": "[경기] 화성시 2026년 수출 패키지 지원 참가기업 모집 공고",
-      "dday": 1,
-      "region": "경기",
-      "amount": "260만원",
-      "target": "중소기업",
-      "deadline": "2026-09-22 ~ 2026-10-22",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126805",
-      "createdAt": "2026-09-28 13:56:31"
-    },
     {
       "id": "PBLN_000000000127343",
       "title": "[전북] 순창군 2026년 하반기 2차 사회적경제 컨설팅 지원사업 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전북",
       "amount": "최대 100만원",
       "target": "사회적기업",
@@ -401,7 +16,7 @@
     {
       "id": "PBLN_000000000127334",
       "title": "[강원] 춘천시 2026년 하반기 착한가격업소 추가모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -412,7 +27,7 @@
     {
       "id": "PBLN_000000000127333",
       "title": "[충청권] 농식품 창업기업의 성장을 위한 유통MD 품평회 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "농촌",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -423,7 +38,7 @@
     {
       "id": "PBLN_000000000127331",
       "title": "[강원] 평창군 2026년 관내기업 국내외 박람회 참가 지원사업 참여기업 추가 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -434,7 +49,7 @@
     {
       "id": "PBLN_000000000127326",
       "title": "2026년 1차 나주형 청년 에너지 창업 사관학교(직ㆍ주ㆍ락ㆍ비) 사업 수행기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -445,7 +60,7 @@
     {
       "id": "PBLN_000000000127324",
       "title": "[전북] 2026년 지역기업 성장사다리 지원사업(예비선도기업 육성사업) 비R&D 지원 프로그램 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전국",
       "amount": "최대 500만원",
       "target": "중소기업",
@@ -456,7 +71,7 @@
     {
       "id": "PBLN_000000000127311",
       "title": "2026년 한국방송통신전파진흥원 중소기업 ESG 지원사업(ESG성장캠프) 참여기업 공모",
-      "dday": 2,
+      "dday": 0,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -467,7 +82,7 @@
     {
       "id": "PBLN_000000000127306",
       "title": "2026년 하반기 기술ㆍ혁신제품 공공구매 상담회 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -478,7 +93,7 @@
     {
       "id": "PBLN_000000000127305",
       "title": "2026년 3차 체육인 직업안정 사업(창업지원) 창업교육과정(새싹) 참여자 추가모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "문화",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -489,7 +104,7 @@
     {
       "id": "PBLN_000000000127303",
       "title": "2026년 유통산업 상생ㆍ협력문화 확산 유공자 포상 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -500,7 +115,7 @@
     {
       "id": "PBLN_000000000127302",
       "title": "[경남] 2026년 해외바이어 초청 수출상담회 참가업체 모집 연장 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -511,7 +126,7 @@
     {
       "id": "PBLN_000000000127295",
       "title": "2026년 상생협력형 내일채움공제 도입 및 지원 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "보건",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -522,7 +137,7 @@
     {
       "id": "PBLN_000000000127289",
       "title": "[경남] 통영시 강구안 동네상권 컨설팅 (점포환경개선ㆍVMD)사업 참가자 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -533,7 +148,7 @@
     {
       "id": "PBLN_000000000127283",
       "title": "[경남] 하동군 2027년 특용작물(녹차) 시설현대화 지원사업 예비사업자 신청 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -544,7 +159,7 @@
     {
       "id": "PBLN_000000000127279",
       "title": "[경남] 양산시 2026년 2차 축산물 판매업소 위생시설개선 지원사업 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -555,7 +170,7 @@
     {
       "id": "PBLN_000000000127278",
       "title": "[경기] 성남시 전남광주-성남cnd 연계 바이오 인프라 프로모션 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -566,7 +181,7 @@
     {
       "id": "PBLN_000000000127275",
       "title": "[세종] 2026년 2차 지역형 예비사회적기업 지정계획 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "세종",
       "amount": "지원금 있음",
       "target": "사회적기업",
@@ -577,7 +192,7 @@
     {
       "id": "PBLN_000000000127255",
       "title": "2026년 3차 대구혁신도시 공공기관 연관산업 기업유치 등 지원사업 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "대구",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -588,7 +203,7 @@
     {
       "id": "PBLN_000000000127247",
       "title": "[부산] 연제구 2026년 하반기 착한가격업소 신규지정 신청 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "부산",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -599,7 +214,7 @@
     {
       "id": "PBLN_000000000127240",
       "title": "2026년 원전 생태계 고도화 지원사업 공급기업 다변화 지원사업 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "기후",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -610,7 +225,7 @@
     {
       "id": "PBLN_000000000127232",
       "title": "[강원] 글로벌 점프업 패키지 지원 사업 참가기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -621,7 +236,7 @@
     {
       "id": "PBLN_000000000127217",
       "title": "[경기] 화성시 2027년 창업기업 CES 탐방단(The International Consumer Electronics Show) 모집 연장 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -632,7 +247,7 @@
     {
       "id": "PBLN_000000000127212",
       "title": "[경기] 동두천시 2026년 4차 현장노동자 휴게시설 개선사업 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -643,7 +258,7 @@
     {
       "id": "PBLN_000000000127194",
       "title": "[전남광주] 2026년 창업도시 프로젝트 기술개발 컨설팅 참가자 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -654,7 +269,7 @@
     {
       "id": "PBLN_000000000127187",
       "title": "2026년 규제혁신 IR-DAY 참가업체 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -665,7 +280,7 @@
     {
       "id": "PBLN_000000000127184",
       "title": "[울산] 남구 2026년 2차 지역산업위기대응 맞춤형 지원사업 수혜기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -676,7 +291,7 @@
     {
       "id": "PBLN_000000000127179",
       "title": "[충북] 청주시 2026년 고용선도기업 추가 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "충북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -687,7 +302,7 @@
     {
       "id": "PBLN_000000000127173",
       "title": "[전북] 김제시 2026년 김제전통시장 청년몰 입점 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -698,7 +313,7 @@
     {
       "id": "PBLN_000000000127172",
       "title": "[충남] 예산군 2026년 착한가격업소 신규지정 신청 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -709,7 +324,7 @@
     {
       "id": "PBLN_000000000127163",
       "title": "[전북] 고창군 2026년 4분기 착한가격업소 신규 지정 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -720,7 +335,7 @@
     {
       "id": "PBLN_000000000127145",
       "title": "[전북] 김제시 2026년 2차 수출사다리 지원사업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -731,7 +346,7 @@
     {
       "id": "PBLN_000000000127142",
       "title": "[경기] 동두천시 2026년 중소기업 개발생산판로 맞춤형 지원사업 참가기업 추가모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -742,7 +357,7 @@
     {
       "id": "PBLN_000000000127140",
       "title": "[부산] 부산시 2026년 동계 계절학기 참여기업 모집 공고(산학연계 현장실습 지원사업)",
-      "dday": 2,
+      "dday": 0,
       "region": "부산",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -753,7 +368,7 @@
     {
       "id": "PBLN_000000000127123",
       "title": "[경남] 산청군 임산물 가공제품 개발지원사업 신청 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -764,7 +379,7 @@
     {
       "id": "PBLN_000000000127115",
       "title": "2026년 5차 벤처기업 공동채용 지원사업 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -775,7 +390,7 @@
     {
       "id": "PBLN_000000000127114",
       "title": "[경기] 하남시 2026년 사회적경제기업 기업 홍보이미지 제작 지원 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "사회적기업",
@@ -786,7 +401,7 @@
     {
       "id": "PBLN_000000000127103",
       "title": "2026년 제약바이오 투자대전(해외 투자유치ㆍ수출 상담회) 참가기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -797,7 +412,7 @@
     {
       "id": "PBLN_000000000127088",
       "title": "[충남] 2026년 디지털콘텐츠 제작지원(팔리는 상세페이지 제작지원) 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -808,7 +423,7 @@
     {
       "id": "PBLN_000000000127087",
       "title": "[충남] 2026년 찾아가는 미디어 소담 스튜디오 참여 업체 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -819,7 +434,7 @@
     {
       "id": "PBLN_000000000127044",
       "title": "[서울] 은평구 2026년 4분기 중소기업육성기금 융자지원 계획 수정 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "서울",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -830,7 +445,7 @@
     {
       "id": "PBLN_000000000127041",
       "title": "[충북] 2026년 베트남 호치민 종합박람회 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "충북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -841,7 +456,7 @@
     {
       "id": "PBLN_000000000127033",
       "title": "[대전] 2026년 3차 대덕특구 기업 애로해결 바우처 지원사업(이노폴리스캠퍼스 사업(원스톱 지원 센터 운영사업))",
-      "dday": 2,
+      "dday": 0,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -852,7 +467,7 @@
     {
       "id": "PBLN_000000000126999",
       "title": "[전남광주] 2026년 중소기업 대상 선정 계획 재공고",
-      "dday": 2,
+      "dday": 0,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -863,7 +478,7 @@
     {
       "id": "PBLN_000000000126990",
       "title": "2026년 K-AI 경북형 동반성장 주력산업 육성 지원사업 컨소시엄 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -874,7 +489,7 @@
     {
       "id": "PBLN_000000000126962",
       "title": "2026년 10차 정보보호 인증제품 조달청 벤처나라 추천기업 모집 공고(10월 추천)",
-      "dday": 2,
+      "dday": 0,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -885,7 +500,7 @@
     {
       "id": "PBLN_000000000126940",
       "title": "[제주] 2026년 향토음식점 지정계획 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "제주",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -896,7 +511,7 @@
     {
       "id": "PBLN_000000000126935",
       "title": "[경북] 2027년 물산업 선도기업 신규기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -907,7 +522,7 @@
     {
       "id": "PBLN_000000000126915",
       "title": "[경기] 화성시 2026년 2차 스마트 물류비 지원사업 참가기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경기",
       "amount": "최대 500만원",
       "target": "중소기업",
@@ -918,7 +533,7 @@
     {
       "id": "PBLN_000000000126895",
       "title": "[충북] 음성군 소상공인 충북신용보증 보증료 지원 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "충북",
       "amount": "최대 5천만원",
       "target": "소상공인",
@@ -929,7 +544,7 @@
     {
       "id": "PBLN_000000000126802",
       "title": "[경남] 제32회 경남무역인 상 포상대상자 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -940,7 +555,7 @@
     {
       "id": "PBLN_000000000126796",
       "title": "[인천] 2026년 5차 지역상품 공공 조달정보 지원사업 맞춤형 조달 컨설팅 참여 기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "인천",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -951,7 +566,7 @@
     {
       "id": "PBLN_000000000126783",
       "title": "[경기] 2026년 우수 환경서비스업 선정을 위한 신청 접수 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -962,7 +577,7 @@
     {
       "id": "PBLN_000000000126714",
       "title": "[부산] 2026년 BUSAN DATA WEEK 데이터 활용기업 홍보부스 참가기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "부산",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -973,7 +588,7 @@
     {
       "id": "PBLN_000000000126689",
       "title": "[경기] 2026년 경기도형 납품대금 연동제 우수기업 지원사업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -984,7 +599,7 @@
     {
       "id": "PBLN_000000000126651",
       "title": "[경남] 2026년 소상공인 경영대상 시상계획 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -995,7 +610,7 @@
     {
       "id": "PBLN_000000000126600",
       "title": "2026년 스마트혁신가전 유공자 포상 신청 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1006,7 +621,7 @@
     {
       "id": "PBLN_000000000126468",
       "title": "[경기] 성남시 2026년 해외 전시회 개별 참가 지원 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경기",
       "amount": "최대 800만원",
       "target": "중소기업",
@@ -1017,7 +632,7 @@
     {
       "id": "PBLN_000000000126302",
       "title": "[대구] 2026년 고용친화기업 선정ㆍ지원사업 맞춤형 고용환경 개선지원사업 참여기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "대구",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1028,7 +643,7 @@
     {
       "id": "PBLN_000000000126289",
       "title": "[경남] 창원시 2026년 K-DEX 공동관 참가기업 모집 공고",
-      "dday": 2,
+      "dday": 0,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1039,7 +654,7 @@
     {
       "id": "PBLN_000000000127339",
       "title": "2026년 베트남 최대 방산전시회(VIDEX 2026) 방산홍보사업 참가사 모집 공고",
-      "dday": 4,
+      "dday": 2,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1050,7 +665,7 @@
     {
       "id": "PBLN_000000000127294",
       "title": "[충남] 공주시 2026년 충남지자체 지식재산창출지원사업 수혜기업 모집 공고",
-      "dday": 4,
+      "dday": 2,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1061,7 +676,7 @@
     {
       "id": "PBLN_000000000127139",
       "title": "[충남] 금산군 2026년 베트남 소비촉진 사업 참가기업 모집 공고",
-      "dday": 4,
+      "dday": 2,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1070,20 +685,86 @@
       "createdAt": "2026-10-13 10:00:43"
     },
     {
-      "id": "PBLN_000000000126035",
-      "title": "2026년 남해군 독일마을 맥주축제ㆍ관광객 유치 인센티브 지원 사업 공고",
-      "dday": 4,
-      "region": "경남",
+      "id": "PBLN_000000000127389",
+      "title": "[울산] 2026년 신중년 경력형 일자리사업 참여기관 추가 모집 공고",
+      "dday": 3,
+      "region": "울산",
+      "amount": "10만원",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-10-26",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127389",
+      "createdAt": "2026-10-22 09:56:14"
+    },
+    {
+      "id": "PBLN_000000000127370",
+      "title": "2026년 제4회 중견기업 혁신대상 장관표창 계획 연장 공고",
+      "dday": 3,
+      "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
-      "deadline": "2026-08-24 ~ 2026-10-25",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126035",
-      "createdAt": "2026-09-01 14:07:53"
+      "deadline": "2026-10-20 ~ 2026-10-26",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127370",
+      "createdAt": "2026-10-21 13:19:17"
+    },
+    {
+      "id": "PBLN_000000000127369",
+      "title": "[전남광주] 2026년 2차 전남창조경제혁신센터 국내판로 오픈이노베이션(GS SHOP) 밋업데이 참가기업 모집 공고",
+      "dday": 3,
+      "region": "전남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-26",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127369",
+      "createdAt": "2026-10-21 11:11:12"
+    },
+    {
+      "id": "PBLN_000000000127366",
+      "title": "[강원] 춘천시 2026년 친환경 인증농산물 포장재 지원사업 추가 공고",
+      "dday": 3,
+      "region": "강원",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-26",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127366",
+      "createdAt": "2026-10-21 10:57:00"
+    },
+    {
+      "id": "PBLN_000000000127365",
+      "title": "2026년 K-푸드 콜드풀링 시범사업 이용업체 모집 공고",
+      "dday": 3,
+      "region": "농림",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-26",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127365",
+      "createdAt": "2026-10-21 10:45:08"
+    },
+    {
+      "id": "PBLN_000000000127359",
+      "title": "2026년 사회연대경제기업 AX 현장 컨설팅 참여기업 모집 공고",
+      "dday": 3,
+      "region": "고용",
+      "amount": "지원금 있음",
+      "target": "사회적기업",
+      "deadline": "2026-10-15 ~ 2026-10-26",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127359",
+      "createdAt": "2026-10-21 10:06:50"
+    },
+    {
+      "id": "PBLN_000000000127355",
+      "title": "[경북] 2026년 우수상품 전시 및 수출상담회 참가기업 모집 공고",
+      "dday": 3,
+      "region": "경북",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-26",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127355",
+      "createdAt": "2026-10-21 09:42:27"
     },
     {
       "id": "PBLN_000000000127352",
       "title": "[충남] 홍성군 2026년 (예비)사회적기업 시설장비 지원사업 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "사회적기업",
@@ -1094,7 +775,7 @@
     {
       "id": "PBLN_000000000127325",
       "title": "2026년 희망나눔 자립지원 프로그램 취약계층 고용 우수기업 선정 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "국토",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1105,7 +786,7 @@
     {
       "id": "PBLN_000000000127317",
       "title": "[제주] 2026년 4극3특 제주특별자치도 과학기술혁신지원사업 연구단 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1116,7 +797,7 @@
     {
       "id": "PBLN_000000000127307",
       "title": "2026년 동남권 멀티도메인 모빌리티 비즈니스 해커톤 참가자 모집 수정 공고(지역혁신클러스터육성(비R&D)사업)",
-      "dday": 5,
+      "dday": 3,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1127,7 +808,7 @@
     {
       "id": "PBLN_000000000127274",
       "title": "[세종] 2026년 LH 임대주택 중소기업 기숙사 기관공급 대상 기업 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "세종",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1138,7 +819,7 @@
     {
       "id": "PBLN_000000000127251",
       "title": "[전북] 전주시 2026년 착한가격업소 추가 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1149,7 +830,7 @@
     {
       "id": "PBLN_000000000127196",
       "title": "[충북] 충주시 2026년 제조 AI 현장 적용 지원 사업 수혜기업 모집 연장 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1160,7 +841,7 @@
     {
       "id": "PBLN_000000000127195",
       "title": "2026년 4차 K-브랜드 정부인증제도 참여기업 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "지식",
       "amount": "최대 2억원",
       "target": "중소기업",
@@ -1171,7 +852,7 @@
     {
       "id": "PBLN_000000000127193",
       "title": "[부산] K-콘텐츠 관광마케팅 아카데미 2기 심화아카데미 참가자 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "문화",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1182,7 +863,7 @@
     {
       "id": "PBLN_000000000127181",
       "title": "[충북] 진천군 2026년 반려동물 동반 출입 음식점 위생용품 지원사업 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "충북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1193,7 +874,7 @@
     {
       "id": "PBLN_000000000127164",
       "title": "[전북] 익산시 청년공유주방(배달형 외식창업 인큐베이팅) 예비창업자 모집 재공고(익산시 음식ㆍ식품교육문화원)",
-      "dday": 5,
+      "dday": 3,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1204,7 +885,7 @@
     {
       "id": "PBLN_000000000127160",
       "title": "[경북] 2026년 경산형 여성ㆍ가족친화기업 지원사업 참여기업 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "여성기업",
@@ -1215,7 +896,7 @@
     {
       "id": "PBLN_000000000127138",
       "title": "[경기] 용인시 2026년 해외플랫폼 입점 지원사업 기업 추가 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "경기",
       "amount": "최대 300만원",
       "target": "중소기업",
@@ -1226,7 +907,7 @@
     {
       "id": "PBLN_000000000127135",
       "title": "[경기] 용인시 2026년 KOTRA 수출 대행 서비스 지원사업 추가 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "경기",
       "amount": "최대 200만원",
       "target": "중소기업",
@@ -1237,7 +918,7 @@
     {
       "id": "PBLN_000000000127119",
       "title": "[경남] 양산시 2026년 노동자 휴게시설 지원사업 2차 추가 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1248,7 +929,7 @@
     {
       "id": "PBLN_000000000127077",
       "title": "2026년 산업기술 정책금융 지원 유공자 포상 신청 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1259,7 +940,7 @@
     {
       "id": "PBLN_000000000127076",
       "title": "2026년 농림축산식품부 혁신제품 지정기간 연장(2차 연장) 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "농림",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1270,7 +951,7 @@
     {
       "id": "PBLN_000000000127074",
       "title": "2026년 농림축산식품부 혁신제품 지정기간 연장(1차 연장) 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "농림",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1281,7 +962,7 @@
     {
       "id": "PBLN_000000000127070",
       "title": "2026년 해외 물시장 기술 테스트 및 검증 지원사업 모집 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "기후",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1292,7 +973,7 @@
     {
       "id": "PBLN_000000000126969",
       "title": "2026년 청년기업인상 포상 신청 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1303,7 +984,7 @@
     {
       "id": "PBLN_000000000126088",
       "title": "2026년 임실N치즈축제 관광객 모객여행사 인센티브 지원 계획 공고",
-      "dday": 5,
+      "dday": 3,
       "region": "전북",
       "amount": "50만원",
       "target": "중소기업",
@@ -1312,9 +993,64 @@
       "createdAt": "2026-09-02 14:24:03"
     },
     {
+      "id": "PBLN_000000000127412",
+      "title": "[경북] 농촌융복합산업 농특산물 판로지원 라이브커머스 사업대상자 모집 공고",
+      "dday": 4,
+      "region": "경북",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-27",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127412",
+      "createdAt": "2026-10-22 14:15:11"
+    },
+    {
+      "id": "PBLN_000000000127410",
+      "title": "[강원] 사회적경제혁신타운 지역 상생 마켓 참여기업 모집 공고",
+      "dday": 4,
+      "region": "강원",
+      "amount": "지원금 있음",
+      "target": "사회적기업",
+      "deadline": "2026-10-21 ~ 2026-10-27",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127410",
+      "createdAt": "2026-10-22 13:57:29"
+    },
+    {
+      "id": "PBLN_000000000127397",
+      "title": "2026년 10월 코리아그랜드페스티벌 오프라인 기획전 공고",
+      "dday": 4,
+      "region": "전국",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-10-27",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127397",
+      "createdAt": "2026-10-22 10:53:55"
+    },
+    {
+      "id": "PBLN_000000000127388",
+      "title": "[전남광주] 여수시 2026년 2차 맞춤형 단계별 기업지원프로그램 모집 공고",
+      "dday": 4,
+      "region": "전남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-10-27",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127388",
+      "createdAt": "2026-10-22 09:55:20"
+    },
+    {
+      "id": "PBLN_000000000127374",
+      "title": "[경기] 김포시 2026년 4분기 착한가격업소 모집 공고",
+      "dday": 4,
+      "region": "경기",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-19 ~ 2026-10-27",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127374",
+      "createdAt": "2026-10-21 13:51:36"
+    },
+    {
       "id": "PBLN_000000000127321",
       "title": "제25회 KOMISS 심포지엄 및 2026 WSC 연계 광역형 국산의료기기 교육ㆍ훈련 지원센터 통합전시관 참여기업 모집 공고",
-      "dday": 6,
+      "dday": 4,
       "region": "인천",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1325,7 +1061,7 @@
     {
       "id": "PBLN_000000000127320",
       "title": "[호남권] 2026년 4극3특 과학기술혁신지원사업 연구단 모집 연장 공고",
-      "dday": 6,
+      "dday": 4,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1336,7 +1072,7 @@
     {
       "id": "PBLN_000000000127319",
       "title": "[인천] 2026년 기업공개(IPO) 맞춤형 투자지원 사업 참여기업 모집 공고",
-      "dday": 6,
+      "dday": 4,
       "region": "인천",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1347,7 +1083,7 @@
     {
       "id": "PBLN_000000000127299",
       "title": "[서울] 2026년 농부의시장 연계 사회적경제 플리마켓 참여기업 모집공고",
-      "dday": 6,
+      "dday": 4,
       "region": "서울",
       "amount": "지원금 있음",
       "target": "사회적기업",
@@ -1358,7 +1094,7 @@
     {
       "id": "PBLN_000000000127280",
       "title": "[경남] 창원시 2026년 4차 채소화훼분야 보조사업 추가대상자 모집 공고",
-      "dday": 6,
+      "dday": 4,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1369,7 +1105,7 @@
     {
       "id": "PBLN_000000000127241",
       "title": "[경북] 2026년 창업ㆍ벤처 우수사례 공모전 G-Star Awards 참가기업 모집 공고",
-      "dday": 6,
+      "dday": 4,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1380,7 +1116,7 @@
     {
       "id": "PBLN_000000000127222",
       "title": "2026년 차세대 항공 기술지원 수혜기업 모집 공고(차세대 항공 기체부품 첨단제조 실증 지원 기반구축 사업)",
-      "dday": 6,
+      "dday": 4,
       "region": "부산",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1391,7 +1127,7 @@
     {
       "id": "PBLN_000000000127015",
       "title": "수성알파시티 기업 전용 5G 기반 통신망 서비스 지원 대상 기업 2차 모집 공고",
-      "dday": 6,
+      "dday": 4,
       "region": "국토",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1402,7 +1138,7 @@
     {
       "id": "PBLN_000000000127014",
       "title": "[경북] 2026년 지역특화형(방산ㆍ모빌리티) 스마트공장 보급확산 사업(기초단계) 참여기업 모집 공고",
-      "dday": 6,
+      "dday": 4,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1413,7 +1149,7 @@
     {
       "id": "PBLN_000000000126960",
       "title": "2026년 제30회 데이터 품질대상 공고",
-      "dday": 6,
+      "dday": 4,
       "region": "과학",
       "amount": "최대 1,150만원",
       "target": "중소기업",
@@ -1424,7 +1160,7 @@
     {
       "id": "PBLN_000000000126793",
       "title": "[경북] 2027년 농어촌진흥기금 지원사업 공고",
-      "dday": 6,
+      "dday": 4,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1433,9 +1169,53 @@
       "createdAt": "2026-09-28 13:05:58"
     },
     {
+      "id": "PBLN_000000000127409",
+      "title": "[경기] 화성시 2026년 제4회 중소기업대상 추가모집 공고",
+      "dday": 5,
+      "region": "경기",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-10-28",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127409",
+      "createdAt": "2026-10-22 13:51:31"
+    },
+    {
+      "id": "PBLN_000000000127408",
+      "title": "[울산] 2026년 중국 소비재 온라인 무역사절단 모집 공고",
+      "dday": 5,
+      "region": "울산",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-10-28",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127408",
+      "createdAt": "2026-10-22 13:50:32"
+    },
+    {
+      "id": "PBLN_000000000127394",
+      "title": "[경북] 대구한의대학교 글로컬대학(특성화지방대학) K-MEDI AI Innovation 창업사관학교 예비창업자 모집 공고",
+      "dday": 5,
+      "region": "경북",
+      "amount": "지원금 있음",
+      "target": "창업벤처",
+      "deadline": "2026-10-21 ~ 2026-10-28",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127394",
+      "createdAt": "2026-10-22 10:23:39"
+    },
+    {
+      "id": "PBLN_000000000127371",
+      "title": "[전남광주] 2026년 중동 시장개척단 참가기업 모집 공고",
+      "dday": 5,
+      "region": "전남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-28",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127371",
+      "createdAt": "2026-10-21 13:23:47"
+    },
+    {
       "id": "PBLN_000000000127351",
       "title": "2026년 7차 해외 상표 무단선점 심층조사 지원사업 모집 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "지식",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1446,7 +1226,7 @@
     {
       "id": "PBLN_000000000127336",
       "title": "2026년 대전 우즈베키스탄 초기시장 개척 프로그램 참여기업 모집 공고(지역 스타트업 글로벌 진출 지원사업)",
-      "dday": 7,
+      "dday": 5,
       "region": "대전",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1457,7 +1237,7 @@
     {
       "id": "PBLN_000000000127322",
       "title": "[전남] 2026년 드론기업 역량강화 지원사업 공고(R&D)",
-      "dday": 7,
+      "dday": 5,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1468,7 +1248,7 @@
     {
       "id": "PBLN_000000000127316",
       "title": "[강원] 2026년 지역 주도형 AI 대전환 사업 강원 지역주도 AI 대전환 수요기업 모집 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1479,7 +1259,7 @@
     {
       "id": "PBLN_000000000127259",
       "title": "[충북] 2026년 2차 웹소설 IP 콘텐츠화 지원사업 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "충북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1490,7 +1270,7 @@
     {
       "id": "PBLN_000000000127257",
       "title": "2026년 수출기업 지원 우수사례 발표 대회 개최 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "관세",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1501,7 +1281,7 @@
     {
       "id": "PBLN_000000000127256",
       "title": "[전남광주] 콘텐츠 글로벌 비즈니스 확장 지원 프로그램 참가기업 모집 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1512,7 +1292,7 @@
     {
       "id": "PBLN_000000000127250",
       "title": "[서울] 광진구 2026년 우리동네 소상공인 경영주치의(시설개선) 참여업체 모집 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "서울",
       "amount": "최대 150만원",
       "target": "소상공인",
@@ -1523,7 +1303,7 @@
     {
       "id": "PBLN_000000000127230",
       "title": "[경북] 2026년 경북세일페스타 수도권 팝업스토어 참가기업 모집 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1534,7 +1314,7 @@
     {
       "id": "PBLN_000000000127213",
       "title": "[경기] 이천시 2026년 우리동네 맑은공기 패키지 지원사업 모집 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1545,7 +1325,7 @@
     {
       "id": "PBLN_000000000127079",
       "title": "[경기] 2026년 지커넥션 비즈니스 데이 국내기업 추가모집 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1556,7 +1336,7 @@
     {
       "id": "PBLN_000000000127016",
       "title": "2026년 한국도로공사 상생형 창업ㆍ벤처기업 지원사업 모집 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "국토",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1567,7 +1347,7 @@
     {
       "id": "PBLN_000000000126705",
       "title": "2026년 3차 중소벤처기업부 혁신제품 지정기간 연장(2차) 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1578,7 +1358,7 @@
     {
       "id": "PBLN_000000000126703",
       "title": "2026년 4차 중소벤처기업부 혁신제품 지정기간 연장(1차) 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1589,7 +1369,7 @@
     {
       "id": "PBLN_000000000126394",
       "title": "2026년 국제 배터리 엑스포 포항 참가기업ㆍ기관 모집 공고",
-      "dday": 7,
+      "dday": 5,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1598,9 +1378,31 @@
       "createdAt": "2026-09-11 09:48:03"
     },
     {
+      "id": "PBLN_000000000127367",
+      "title": "[전남광주] 2026년 전남창조경제혁신센터 국내판로 오픈이노베이션 밋업데이(GS THE FRESH) 참가기업 모집 공고",
+      "dday": 6,
+      "region": "전남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-29",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127367",
+      "createdAt": "2026-10-21 10:59:33"
+    },
+    {
+      "id": "PBLN_000000000127354",
+      "title": "[충남] 2026년 2차 해양바이오산업 클러스터 플랫폼 구축 사업 수혜기업 모집 공고",
+      "dday": 6,
+      "region": "충남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-29",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127354",
+      "createdAt": "2026-10-21 09:31:34"
+    },
+    {
       "id": "PBLN_000000000127300",
       "title": "[서울] 중랑구 2026년 사회적경제 팝업스토어 참여기업 모집 공고",
-      "dday": 8,
+      "dday": 6,
       "region": "서울",
       "amount": "지원금 있음",
       "target": "사회적기업",
@@ -1611,7 +1413,7 @@
     {
       "id": "PBLN_000000000127291",
       "title": "[경남] 김해시 2026년 김해형 중소기업 근로소득 청년지원사업 모집 공고",
-      "dday": 8,
+      "dday": 6,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1622,7 +1424,7 @@
     {
       "id": "PBLN_000000000127246",
       "title": "2026년 투자기업 발굴 플랫폼 빅웨이브 IR사업 3회차 초격차 분야 IR 참여기업 모집 공고",
-      "dday": 8,
+      "dday": 6,
       "region": "인천",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1633,7 +1435,7 @@
     {
       "id": "PBLN_000000000127198",
       "title": "2026년 방송영상콘텐츠 후반작업지원 사업 추가 공고",
-      "dday": 8,
+      "dday": 6,
       "region": "문화",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1644,7 +1446,7 @@
     {
       "id": "PBLN_000000000127189",
       "title": "[강원] 홍천군 2026년 찾아가는 베트남 수출상담회 참가기업 모집 공고",
-      "dday": 8,
+      "dday": 6,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1655,7 +1457,7 @@
     {
       "id": "PBLN_000000000127178",
       "title": "[대구] 2026년 2차 컨설팅 지원 사업 참여기업 모집 공고(지역특화 제조데이터 활성화 사업)",
-      "dday": 8,
+      "dday": 6,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1666,7 +1468,7 @@
     {
       "id": "PBLN_000000000127132",
       "title": "[서울] MWC2027-4YFN 서울기업관 서울소재 참가기업 모집 공고",
-      "dday": 8,
+      "dday": 6,
       "region": "서울",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1677,7 +1479,7 @@
     {
       "id": "PBLN_000000000127098",
       "title": "세상을 바꿀 딥테크 출연(연) 기술사업화 유망기업 투자 대상 공개 모집 공고(KST 기술사업화 종합전문회사 프로그램)",
-      "dday": 8,
+      "dday": 6,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1688,7 +1490,7 @@
     {
       "id": "PBLN_000000000127096",
       "title": "2027년 초격차 스타트업 프로젝트 정부 첫 실증ㆍ구매 주관기관 모집 공고",
-      "dday": 8,
+      "dday": 6,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1699,7 +1501,7 @@
     {
       "id": "PBLN_000000000127065",
       "title": "[대전] 2026년 해외 전시박람회 개별참가 지원사업 참여기업 추가 모집 공고",
-      "dday": 8,
+      "dday": 6,
       "region": "대전",
       "amount": "최대 400만원",
       "target": "중소기업",
@@ -1710,7 +1512,7 @@
     {
       "id": "PBLN_000000000126981",
       "title": "2026년 2차 한국무역보험공사 연계 수출지원프로그램 시행계획 공고",
-      "dday": 8,
+      "dday": 6,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1719,9 +1521,108 @@
       "createdAt": "2026-10-06 09:48:25"
     },
     {
+      "id": "PBLN_000000000127407",
+      "title": "중국 국제자원순환대회ㆍ전시회 참가 모집 공고",
+      "dday": 7,
+      "region": "기후",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127407",
+      "createdAt": "2026-10-22 13:48:38"
+    },
+    {
+      "id": "PBLN_000000000127395",
+      "title": "2026년 2차 유망수출품목발굴 지원사업 참여기업 모집 연장 공고",
+      "dday": 7,
+      "region": "방위",
+      "amount": "최대 5,000만원",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127395",
+      "createdAt": "2026-10-22 10:26:23"
+    },
+    {
+      "id": "PBLN_000000000127393",
+      "title": "2026년 6차 수출 도전기업 IP위험 대응역량 강화사업 위험대응 유형 모집 공고",
+      "dday": 7,
+      "region": "지식",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-22 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127393",
+      "createdAt": "2026-10-22 10:22:14"
+    },
+    {
+      "id": "PBLN_000000000127387",
+      "title": "[부산] 2026년 2차 하반기 긴급지사화 지원사업 참가기업 모집 공고",
+      "dday": 7,
+      "region": "부산",
+      "amount": "100만원",
+      "target": "중소기업",
+      "deadline": "2026-10-15 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127387",
+      "createdAt": "2026-10-22 09:44:38"
+    },
+    {
+      "id": "PBLN_000000000127385",
+      "title": "[부산] 2026년 2차 하반기 해외지사화 지원사업 참가기업 모집 공고",
+      "dday": 7,
+      "region": "부산",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-15 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127385",
+      "createdAt": "2026-10-22 09:34:24"
+    },
+    {
+      "id": "PBLN_000000000127384",
+      "title": "[경남] 2026년 가스터빈 소재ㆍ부품 품질평가 및 성능검증 플랫폼 개발사업 전시ㆍ박람회 참가 지원기업 모집 공고",
+      "dday": 7,
+      "region": "경남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127384",
+      "createdAt": "2026-10-22 09:23:27"
+    },
+    {
+      "id": "PBLN_000000000127362",
+      "title": "[경기] 의정부시 2026년 3차 해외전시회 참가기업 지원사업 추가 모집 공고",
+      "dday": 7,
+      "region": "경기",
+      "amount": "최대 297만원",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127362",
+      "createdAt": "2026-10-21 10:17:22"
+    },
+    {
+      "id": "PBLN_000000000127361",
+      "title": "[경기] 화성시 2026년 하반기 공급망 확대 사업화 기술컨설팅 참여기업 추가 모집 공고",
+      "dday": 7,
+      "region": "경기",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-19 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127361",
+      "createdAt": "2026-10-21 10:07:36"
+    },
+    {
+      "id": "PBLN_000000000127360",
+      "title": "2026년 3차 소공인 클린제조환경조성 사업 모집 연장 공고",
+      "dday": 7,
+      "region": "전국",
+      "amount": "지원금 있음",
+      "target": "소상공인",
+      "deadline": "2026-10-06 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127360",
+      "createdAt": "2026-10-21 10:07:11"
+    },
+    {
       "id": "PBLN_000000000127349",
       "title": "[강원] 철원군 2026년 착한가격업소 신규 선정 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1732,7 +1633,7 @@
     {
       "id": "PBLN_000000000127348",
       "title": "[강원] 정선군 2026년 착한가격업소 신규지정 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1743,7 +1644,7 @@
     {
       "id": "PBLN_000000000127345",
       "title": "[충남] 공주시 2026년 하반기 착한가격업소 신규지정 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1754,7 +1655,7 @@
     {
       "id": "PBLN_000000000127342",
       "title": "2026년 K-소비재 온-오프라인 판촉 상담회 참가기업 모집 공고(정저우 중부6성 박람회 연계)",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1765,7 +1666,7 @@
     {
       "id": "PBLN_000000000127335",
       "title": "[세종] 2026 중부권 지역혁신클러스터육성사업(비R&D) 기업지원 수혜기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "세종",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1776,7 +1677,7 @@
     {
       "id": "PBLN_000000000127332",
       "title": "2026년ㆍ2027년 Physical AI 기반 의료로봇 기술통합센터 구축 참여기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1787,7 +1688,7 @@
     {
       "id": "PBLN_000000000127323",
       "title": "[전북] 2026년 7차 글로벌 IP스타기업 육성 해외출원비용지원사업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1798,7 +1699,7 @@
     {
       "id": "PBLN_000000000127318",
       "title": "[경남] 2026년 우주산업 혁신생태계 조성 지원 사업 글로벌 마케팅 지원 수혜기업 추가 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1809,7 +1710,7 @@
     {
       "id": "PBLN_000000000127310",
       "title": "미국 프랜차이즈 시장 진출 전략 프로그램 US BUSINESS INSIGHTS 2026 참가기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1820,7 +1721,7 @@
     {
       "id": "PBLN_000000000127288",
       "title": "[경북] 상주시 2026년 하반기 영농부산물 안전처리 지원사업 신청 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1831,7 +1732,7 @@
     {
       "id": "PBLN_000000000127253",
       "title": "[경남] 2026년 산업재해예방 우수기업 인증사업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1842,7 +1743,7 @@
     {
       "id": "PBLN_000000000127243",
       "title": "[충북] 2026년 게임 비즈니스데이 참여기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "충북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1853,7 +1754,7 @@
     {
       "id": "PBLN_000000000127226",
       "title": "2026년 강원 미래모빌리티 기업지원 프로그램 모집 재공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1864,7 +1765,7 @@
     {
       "id": "PBLN_000000000127224",
       "title": "[경기] 이천시 2026년 5차 해외규격인증 지원사업 참여기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1875,7 +1776,7 @@
     {
       "id": "PBLN_000000000127208",
       "title": "[강원] 횡성군 2026년 5차 특산자원 융복합 기술지원 사업 추가모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1886,7 +1787,7 @@
     {
       "id": "PBLN_000000000127185",
       "title": "[전남광주ㆍ제주] 2026년 2차 10월 동행축제 우수 소상공인 제품 현장 라이브커머스 참가기업 모집 연장 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -1897,7 +1798,7 @@
     {
       "id": "PBLN_000000000127183",
       "title": "2026년 K-푸드+ 수출탑 대상기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "농림",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1908,7 +1809,7 @@
     {
       "id": "PBLN_000000000127175",
       "title": "[전남광주] 2026년 창업도시 조성 프로젝트 지역문제 해결(공공분야) AI 헬스케어 수혜기업 모집 연장 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1919,7 +1820,7 @@
     {
       "id": "PBLN_000000000127171",
       "title": "[충남] 공주시 2026년 하반기 소상공인 카드가맹점 카드수수료 지원사업 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "충남",
       "amount": "최대 60만원",
       "target": "소상공인",
@@ -1930,7 +1831,7 @@
     {
       "id": "PBLN_000000000127162",
       "title": "[전북] 군산시 2026년 창업플랫폼 예비창업자 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1941,7 +1842,7 @@
     {
       "id": "PBLN_000000000127158",
       "title": "[경북] 칠곡군 2026년 청년농업인 R&D 기술창업 통합관리 지원 사업 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -1952,7 +1853,7 @@
     {
       "id": "PBLN_000000000127157",
       "title": "[전북] 김제시 소상공인 1인 점포 안심벨 지원사업 3차 추가모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -1963,7 +1864,7 @@
     {
       "id": "PBLN_000000000127156",
       "title": "[경북] 상주시 2026년 2차 착한가격업소 신규지정계획 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1974,7 +1875,7 @@
     {
       "id": "PBLN_000000000127148",
       "title": "2026년 중동 AIㆍICT 온라인 상담회 참여기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1985,7 +1886,7 @@
     {
       "id": "PBLN_000000000127147",
       "title": "2027년 일본 도쿄 오토모티브월드 전시회 (Automotive World Japan 2027) 한국관 참가기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -1996,7 +1897,7 @@
     {
       "id": "PBLN_000000000127121",
       "title": "[경남] 함안군 2026년 3차 외국인근로자 생활환경 개선 지원사업 재공고",
-      "dday": 9,
+      "dday": 7,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2007,7 +1908,7 @@
     {
       "id": "PBLN_000000000127120",
       "title": "2026년 3차 동물세포기반 백신 공공 CDMO 전략적 육성 및 바이오텍 생산지원 사업 수혜기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2018,7 +1919,7 @@
     {
       "id": "PBLN_000000000127117",
       "title": "[경남] 통영시 2026년 일자리박람회 참가기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2029,7 +1930,7 @@
     {
       "id": "PBLN_000000000127101",
       "title": "[울산] 2026년 2차 디지털커머스 전문기관(소담스퀘어 in 울산) 소상공인 디지털커머스 온라인 판로 지원사업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -2040,7 +1941,7 @@
     {
       "id": "PBLN_000000000127073",
       "title": "[대전] 2026년 독일 뒤셀도르프 의료기기 전시회(MEDICA) 단체참가 참여기업 모집 공고(간접출전)",
-      "dday": 9,
+      "dday": 7,
       "region": "대전",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2051,7 +1952,7 @@
     {
       "id": "PBLN_000000000127047",
       "title": "[전남광주] 화순군 2026년 농수산 수출 특화품목 직불금 지원사업 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2062,7 +1963,7 @@
     {
       "id": "PBLN_000000000127046",
       "title": "[전남광주] 화순군 2026년 농수산물 수출경쟁력 강화 지원사업 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2073,7 +1974,7 @@
     {
       "id": "PBLN_000000000127012",
       "title": "[강원] 2026년 하반기 농어촌진흥기금 지원계획 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2084,7 +1985,7 @@
     {
       "id": "PBLN_000000000127006",
       "title": "[충북] 2026년 2차 충북국방벤처센터 협약기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "충북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2095,7 +1996,7 @@
     {
       "id": "PBLN_000000000127005",
       "title": "[충남] 2026년 3분기분 소상공인 사회보험료 지원사업 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -2106,7 +2007,7 @@
     {
       "id": "PBLN_000000000127003",
       "title": "2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전남",
       "amount": "최대 7,000만원",
       "target": "창업벤처",
@@ -2117,7 +2018,7 @@
     {
       "id": "PBLN_000000000127002",
       "title": "2026년 고용노동부(안전보건공단) 연계 스마트 안전장비지원 품목 등록 시행계획 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2128,7 +2029,7 @@
     {
       "id": "PBLN_000000000126998",
       "title": "2026년 농기자재 수출기업 우수사례 경진대회 참가기업 모집 공고(농산업 수출활성화사업)",
-      "dday": 9,
+      "dday": 7,
       "region": "농림",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2139,7 +2040,7 @@
     {
       "id": "PBLN_000000000126988",
       "title": "[세종] 2026년 하반기 세종창업키움센터 전문가컨설팅 프로그램 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "세종",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -2150,7 +2051,7 @@
     {
       "id": "PBLN_000000000126977",
       "title": "[전남광주] 2026년 2차 지역특화형 스마트공장(식품ㆍ바이오) 구축지원사업(기초) 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2161,7 +2062,7 @@
     {
       "id": "PBLN_000000000126974",
       "title": "2026년 에너지특화기업 지정 신청 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "기후",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2172,7 +2073,7 @@
     {
       "id": "PBLN_000000000126973",
       "title": "산업통상부 2023년 12월 최초지정 혁신제품 지정기간 연장(1차 연장) 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2183,7 +2084,7 @@
     {
       "id": "PBLN_000000000126970",
       "title": "산업통상부 2022년 12월 최초지정 혁신제품 지정기간 연장(2차 연장) 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2194,7 +2095,7 @@
     {
       "id": "PBLN_000000000126966",
       "title": "2026년 정보통신 중소기업 발전 유공자 포상 계획 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2205,7 +2106,7 @@
     {
       "id": "PBLN_000000000126964",
       "title": "[충북] 충주시 2026년 소상공인 택배비 지원사업 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "충북",
       "amount": "최대 30만원",
       "target": "소상공인",
@@ -2216,7 +2117,7 @@
     {
       "id": "PBLN_000000000126947",
       "title": "[전남광주] 2026년 2차 스마트공장(기초단계) 보급ㆍ확산사업 지원 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2227,7 +2128,7 @@
     {
       "id": "PBLN_000000000126924",
       "title": "2026년 산림신품종 육성지원 사업 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산림",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2238,7 +2139,7 @@
     {
       "id": "PBLN_000000000126901",
       "title": "[강원] 홍천군 2026년 가축분뇨 퇴ㆍ액비 제조시설 방지시설 설치 지원사업 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2249,7 +2150,7 @@
     {
       "id": "PBLN_000000000126887",
       "title": "[경북] 구미시 2026년 기업애로 원스톱 에이전트 참여기업 모집 공고(구미경제정책지원센터 설치ㆍ운영사업)",
-      "dday": 9,
+      "dday": 7,
       "region": "경북",
       "amount": "최대 300만원",
       "target": "중소기업",
@@ -2260,7 +2161,7 @@
     {
       "id": "PBLN_000000000126845",
       "title": "[세종] 2026년 일ㆍ생활 균형 우수기업사례 공모전 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "세종",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2271,7 +2172,7 @@
     {
       "id": "PBLN_000000000126836",
       "title": "[경남] 김해시 2026년 4차 중소기업 해외지사화 지원사업 참가기업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2282,7 +2183,7 @@
     {
       "id": "PBLN_000000000126764",
       "title": "2026년 바이오헬스 글로벌 수출부대비용 지원 신청 공고(거점 추가확대)",
-      "dday": 9,
+      "dday": 7,
       "region": "보건",
       "amount": "최대 1,000만원",
       "target": "중소기업",
@@ -2293,7 +2194,7 @@
     {
       "id": "PBLN_000000000126640",
       "title": "[강원] 인제군 2026년 사회적경제기업 지원사업 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "사회적기업",
@@ -2304,7 +2205,7 @@
     {
       "id": "PBLN_000000000126584",
       "title": "2026년 울산 남구 지역산업위기대응 맞춤형 지원사업 인력양성 참여기업 및 참여인력 모집 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2315,7 +2216,7 @@
     {
       "id": "PBLN_000000000126445",
       "title": "2026년 4차 직무발명보상우수기업 인증제 신청 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "지식",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2326,7 +2227,7 @@
     {
       "id": "PBLN_000000000126281",
       "title": "[전남광주] 무안군 2026년 GAP인증농가(농약안전보관함, 포장재) 지원사업 신청 연장 공고",
-      "dday": 9,
+      "dday": 7,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2335,31 +2236,31 @@
       "createdAt": "2026-09-08 13:46:00"
     },
     {
-      "id": "PBLN_000000000126028",
-      "title": "[부산] 2026년 4차 고위험산업 사각지대 집중관리사업(안전보호구 지원) 추가모집 공고",
-      "dday": 9,
-      "region": "부산",
-      "amount": "10만원",
+      "id": "PBLN_000000000127390",
+      "title": "[서울] 2차 2026년 주얼리 제조 마스터 300 발굴(1차년도) 추가모집 공고",
+      "dday": 8,
+      "region": "서울",
+      "amount": "지원금 있음",
       "target": "중소기업",
-      "deadline": "2026-09-01 ~ 2026-10-30",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126028",
-      "createdAt": "2026-09-01 13:42:06"
+      "deadline": "2026-07-15 ~ 2026-10-31",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127390",
+      "createdAt": "2026-10-22 09:59:10"
     },
     {
-      "id": "PBLN_000000000125978",
-      "title": "중소제조 특화 Multi AI Agent 개발(R&D) 점프업 Track 시행계획 공고",
-      "dday": 9,
-      "region": "전국",
-      "amount": "최대 39억원",
+      "id": "PBLN_000000000127376",
+      "title": "2027년 WATER KOREA 물산업 수출상담회 참여기업 모집 공고",
+      "dday": 8,
+      "region": "기후",
+      "amount": "지원금 있음",
       "target": "중소기업",
-      "deadline": "2026-10-01 ~ 2026-10-30",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125978",
-      "createdAt": "2026-08-31 13:46:58"
+      "deadline": "2026-10-17 ~ 2026-10-31",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127376",
+      "createdAt": "2026-10-21 14:00:10"
     },
     {
       "id": "PBLN_000000000127309",
       "title": "[인천] 2026년 Rise-up, 근력(根力)강화 프로젝트 참여자 모집 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "고용",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2370,7 +2271,7 @@
     {
       "id": "PBLN_000000000127277",
       "title": "일본진출 K-스타트업 AI 역직구 온라인 한국관 특별전 모집 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2381,7 +2282,7 @@
     {
       "id": "PBLN_000000000127235",
       "title": "2026년 10월 문화산업특화보증 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "문화",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2392,7 +2293,7 @@
     {
       "id": "PBLN_000000000127177",
       "title": "[경남] 2026년 스마트 물류장비산업 육성 기업지원사업 모집 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2403,7 +2304,7 @@
     {
       "id": "PBLN_000000000127149",
       "title": "2026년 오만 무스카트 뷰티 엘리먼트 (Beauty Elements Exhibition 2026) 전시회 연계 수출상담회 참가기업 모집 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2414,7 +2315,7 @@
     {
       "id": "PBLN_000000000127109",
       "title": "2026년 소방산업 해외 마케팅 홍보물 제작경비 지원사업 연장모집 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "소방",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2425,7 +2326,7 @@
     {
       "id": "PBLN_000000000126971",
       "title": "[경기] 부천시 2026년 10월 유해물질 시험분석 수수료 지원 사업 참여 기업 모집 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "경기",
       "amount": "100만원",
       "target": "중소기업",
@@ -2436,7 +2337,7 @@
     {
       "id": "PBLN_000000000126871",
       "title": "2026년 거제 로케이션 인센티브 지원사업 모집 연장 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "경남",
       "amount": "최대 2,000만원",
       "target": "중소기업",
@@ -2447,7 +2348,7 @@
     {
       "id": "PBLN_000000000126810",
       "title": "2026년 소방산업 해외인증획득 지원(고비용) 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "소방",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2458,7 +2359,7 @@
     {
       "id": "PBLN_000000000126661",
       "title": "2026년 하반기 우수체육용구 생산업체 지정 신청 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "문화",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2469,7 +2370,7 @@
     {
       "id": "PBLN_000000000126548",
       "title": "[부산] 2026년 소상공인 온라인마케팅 활성화 지원 모집 공고",
-      "dday": 10,
+      "dday": 8,
       "region": "부산",
       "amount": "최대 50만원",
       "target": "소상공인",
@@ -2480,7 +2381,7 @@
     {
       "id": "PBLN_000000000126192",
       "title": "[경북] 영천시 맞춤형 전문가 활용 지원 프로그램 참여기업 모집 공고(금호 이웃사촌마을 조성사업)",
-      "dday": 10,
+      "dday": 8,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -2489,9 +2390,64 @@
       "createdAt": "2026-09-07 09:34:59"
     },
     {
+      "id": "PBLN_000000000127377",
+      "title": "[부산] 해운대구 청년 창업자 임차료 지원사업 참여자 추가 모집 공고",
+      "dday": 9,
+      "region": "부산",
+      "amount": "지원금 있음",
+      "target": "창업벤처",
+      "deadline": "2026-10-26 ~ 2026-11-01",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127377",
+      "createdAt": "2026-10-21 14:04:28"
+    },
+    {
+      "id": "PBLN_000000000127405",
+      "title": "[제주] 2026년 제16회 제주 수출인의 날 포상계획 공고",
+      "dday": 10,
+      "region": "제주",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-19 ~ 2026-11-02",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127405",
+      "createdAt": "2026-10-22 13:27:12"
+    },
+    {
+      "id": "PBLN_000000000127383",
+      "title": "[경기] 2026년 2차 공공용지활용 햇빛발전소 확대 지원사업 참여 협동조합 모집 공고",
+      "dday": 10,
+      "region": "경기",
+      "amount": "지원금 있음",
+      "target": "협동조합",
+      "deadline": "2026-10-20 ~ 2026-11-02",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127383",
+      "createdAt": "2026-10-22 09:23:16"
+    },
+    {
+      "id": "PBLN_000000000127364",
+      "title": "[강원] 영동권 2026년 3차 관광 가치이음 지원사업 모집 공고",
+      "dday": 10,
+      "region": "고용",
+      "amount": "2,000만원",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-11-02",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127364",
+      "createdAt": "2026-10-21 10:33:42"
+    },
+    {
+      "id": "PBLN_000000000127357",
+      "title": "[경북] 2026년 신중년 고용창출 우수기업 근로환경개선 지원사업참여기업 추가 모집 공고",
+      "dday": 10,
+      "region": "경북",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-11-02",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127357",
+      "createdAt": "2026-10-21 09:45:11"
+    },
+    {
       "id": "PBLN_000000000127341",
       "title": "[대구] 2026년 지역특화콘텐츠개발지원(대구게임테크허브) 게임 스케일업 패키지 지원사업 참가기업 모집 공고",
-      "dday": 12,
+      "dday": 10,
       "region": "대구",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2502,7 +2458,7 @@
     {
       "id": "PBLN_000000000127329",
       "title": "[경기] 2026년 로컬 스타트업 챌린지 비즈니스 데이 참가기업 모집 공고(투자사 1:1 매칭)",
-      "dday": 12,
+      "dday": 10,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -2513,7 +2469,7 @@
     {
       "id": "PBLN_000000000127297",
       "title": "2026년 4분기 국내 활ㆍ신선 수조 보관 지원업체 모집 공고",
-      "dday": 12,
+      "dday": 10,
       "region": "해양",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2524,7 +2480,7 @@
     {
       "id": "PBLN_000000000127296",
       "title": "2026년 4분기 국내 저온 저장시설 보관 지원업체 모집 공고",
-      "dday": 12,
+      "dday": 10,
       "region": "해양",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2535,7 +2491,7 @@
     {
       "id": "PBLN_000000000127272",
       "title": "2026년 7차 재취업지원서비스 기업컨설팅 지원 사업장 모집 공고",
-      "dday": 12,
+      "dday": 10,
       "region": "고용",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2546,7 +2502,7 @@
     {
       "id": "PBLN_000000000127000",
       "title": "2027년 민ㆍ군규격표준화사업 신규 연구개발과제 공고",
-      "dday": 12,
+      "dday": 10,
       "region": "방위",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2557,7 +2513,7 @@
     {
       "id": "PBLN_000000000126979",
       "title": "[충남] 2027년 지역선도기업사업화지원 공고(지역디지털기업성장지원사업)",
-      "dday": 12,
+      "dday": 10,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2566,9 +2522,20 @@
       "createdAt": "2026-10-06 09:41:08"
     },
     {
+      "id": "PBLN_000000000127396",
+      "title": "[서울] 노원구 2026년 모범음식점 신규 모집 공고",
+      "dday": 11,
+      "region": "서울",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-11-03",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127396",
+      "createdAt": "2026-10-22 10:50:58"
+    },
+    {
       "id": "PBLN_000000000127290",
       "title": "[경북] 청도군 2026년 청년농업인 R&D 기술창업 통합관리 지원사업 신청 공고",
-      "dday": 13,
+      "dday": 11,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -2579,7 +2546,7 @@
     {
       "id": "PBLN_000000000127269",
       "title": "2027년 일본 동경 쌀가공식품 수출확대 수출컨소시엄 한국관 참가기업 모집 공고",
-      "dday": 13,
+      "dday": 11,
       "region": "농림",
       "amount": "100만원",
       "target": "중소기업",
@@ -2590,7 +2557,7 @@
     {
       "id": "PBLN_000000000127260",
       "title": "[경남] 창원시 2026년 국가별 해외 빅바이어 단체초청 수출상담회 참여기업 모집 공고",
-      "dday": 13,
+      "dday": 11,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2599,9 +2566,42 @@
       "createdAt": "2026-10-16 09:40:16"
     },
     {
+      "id": "PBLN_000000000127401",
+      "title": "[경북] 구미시 2026년 하반기 착한가격업소 신규지정계획 공고",
+      "dday": 12,
+      "region": "경북",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-26 ~ 2026-11-04",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127401",
+      "createdAt": "2026-10-22 13:07:42"
+    },
+    {
+      "id": "PBLN_000000000127400",
+      "title": "[경남] 함양군 2026년 소규모 사업장 방지시설 설치(사물인터넷(loT) 측정기기 부착 지원) 지원사업 공고",
+      "dday": 12,
+      "region": "경남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-11-04",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127400",
+      "createdAt": "2026-10-22 11:18:34"
+    },
+    {
+      "id": "PBLN_000000000127381",
+      "title": "[경기] 의왕시 2026년 우수중소기업 선정계획 공고",
+      "dday": 12,
+      "region": "경기",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-19 ~ 2026-11-04",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127381",
+      "createdAt": "2026-10-21 14:56:46"
+    },
+    {
       "id": "PBLN_000000000127207",
       "title": "[경남] 2026년 제조AI 데이터 활용지원 사업 공고",
-      "dday": 14,
+      "dday": 12,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2610,9 +2610,31 @@
       "createdAt": "2026-10-14 13:37:13"
     },
     {
+      "id": "PBLN_000000000127404",
+      "title": "[전남광주] 2026년 농림축수산식품 수출탑 대상기업 모집 공고",
+      "dday": 13,
+      "region": "전남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-22 ~ 2026-11-05",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127404",
+      "createdAt": "2026-10-22 13:17:12"
+    },
+    {
+      "id": "PBLN_000000000127353",
+      "title": "2027년 미국 라스베가스 방송장비 전시회 (NAB 2027) 한국관 참가기업 모집 공고",
+      "dday": 13,
+      "region": "산업",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-11-05",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127353",
+      "createdAt": "2026-10-21 09:22:33"
+    },
+    {
       "id": "PBLN_000000000127338",
       "title": "2026년 중소기업기술개발지원사업 모의평가 프로그램 접수 공고",
-      "dday": 15,
+      "dday": 13,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2623,7 +2645,7 @@
     {
       "id": "PBLN_000000000127330",
       "title": "[경북] 2027년 지역 자율형 디지털 혁신프로젝트 신규과제 컨소시엄 모집 공고",
-      "dday": 15,
+      "dday": 13,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2634,7 +2656,7 @@
     {
       "id": "PBLN_000000000127301",
       "title": "[대구] 2026년 대학ㆍ기업 협업 프로젝트 참여기업 추가 모집 공고(경북대학교 지역전략산업혁신연구소)",
-      "dday": 15,
+      "dday": 13,
       "region": "대구",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2645,7 +2667,7 @@
     {
       "id": "PBLN_000000000127266",
       "title": "2026년 서초창업스테이션 프리 오픈 이노베이션 참여 기업 모집 공고",
-      "dday": 15,
+      "dday": 13,
       "region": "서울",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -2656,7 +2678,7 @@
     {
       "id": "PBLN_000000000127085",
       "title": "2026년 퀀텀(양자)플랫폼 KRISS 차세대양자연구거점사업단 양자공동연구실(JQL) 신규과제 공모",
-      "dday": 15,
+      "dday": 13,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2667,7 +2689,7 @@
     {
       "id": "PBLN_000000000127081",
       "title": "2026년 퀀텀(양자)플랫폼 KIST 양자기술활용연구거점사업단 양자공동연구실(JQL) 신규과제 공모",
-      "dday": 15,
+      "dday": 13,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2676,9 +2698,42 @@
       "createdAt": "2026-10-08 13:15:07"
     },
     {
+      "id": "PBLN_000000000127398",
+      "title": "[서울] 금천구 2026년 일자리창출 우수기업 인증 신청기업 모집 공고",
+      "dday": 14,
+      "region": "서울",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-19 ~ 2026-11-06",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127398",
+      "createdAt": "2026-10-22 11:04:46"
+    },
+    {
+      "id": "PBLN_000000000127375",
+      "title": "[부산] 서구 2026년 수산식품 가공설비 지원사업 추가 사업자 모집 공고",
+      "dday": 14,
+      "region": "부산",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-19 ~ 2026-11-06",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127375",
+      "createdAt": "2026-10-21 13:59:47"
+    },
+    {
+      "id": "PBLN_000000000127356",
+      "title": "[충북] 탄소중립 그린도시 기술 리빙랩 수요기업 모집 재공고(충주시 탄소중립 그린도시 사회전환 사업)",
+      "dday": 14,
+      "region": "충북",
+      "amount": "최대 5천만원",
+      "target": "중소기업",
+      "deadline": "2026-10-19 ~ 2026-11-06",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127356",
+      "createdAt": "2026-10-21 09:44:29"
+    },
+    {
       "id": "PBLN_000000000127312",
       "title": "[대전] 2026년 유성온천 크리스마스축제 크리스마스마켓 셀러ㆍ체험부스 모집 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "대전",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2689,7 +2744,7 @@
     {
       "id": "PBLN_000000000127237",
       "title": "[강원] 2026년 제10회 수출대상 선정계획 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2700,7 +2755,7 @@
     {
       "id": "PBLN_000000000127225",
       "title": "[충남] 2026년 AI 팩토리 사업 성과확산을 위한 지역 DX 수혜기업 지원 사업 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2711,7 +2766,7 @@
     {
       "id": "PBLN_000000000127218",
       "title": "2026년 4분기 자랑스러운 중소기업인 접수 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2722,7 +2777,7 @@
     {
       "id": "PBLN_000000000127152",
       "title": "2026년 5차 자동차 대체부품 장비사용기업 모집 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2733,7 +2788,7 @@
     {
       "id": "PBLN_000000000126942",
       "title": "[강원] 화천군 2026년 농특산물 직거래 택배비 지원 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2744,7 +2799,7 @@
     {
       "id": "PBLN_000000000126829",
       "title": "2027년 수산업ㆍ어촌발전 유공 포상 추천대상자 모집 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "해양",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2755,7 +2810,7 @@
     {
       "id": "PBLN_000000000126791",
       "title": "2026년 제2차 고용노동부 예비사회적기업 지정 계획 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "고용",
       "amount": "지원금 있음",
       "target": "사회적기업",
@@ -2766,7 +2821,7 @@
     {
       "id": "PBLN_000000000126670",
       "title": "규제자유특구ㆍ글로벌혁신 규제자유특구 및 광역연계형 규제자유특구 후보과제 모집 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2777,7 +2832,7 @@
     {
       "id": "PBLN_000000000126650",
       "title": "[부산] 소상공인 에너지바우처 지급 시행 공고",
-      "dday": 16,
+      "dday": 14,
       "region": "부산",
       "amount": "20만원",
       "target": "소상공인",
@@ -2788,7 +2843,7 @@
     {
       "id": "PBLN_000000000127284",
       "title": "6G 서비스 시나리오 공모전 - 6G 시연 기획 Track 공고",
-      "dday": 18,
+      "dday": 16,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2799,7 +2854,7 @@
     {
       "id": "PBLN_000000000127281",
       "title": "6G 서비스 시나리오 공모전 - 6G 예상 시나리오 Track 공고",
-      "dday": 18,
+      "dday": 16,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2810,7 +2865,7 @@
     {
       "id": "PBLN_000000000126687",
       "title": "2026년 하반기 소방산업체 국제 전시회 개별참가 지원사업 참가업체 모집 공고",
-      "dday": 19,
+      "dday": 17,
       "region": "소방",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2819,9 +2874,31 @@
       "createdAt": "2026-09-21 14:24:30"
     },
     {
+      "id": "PBLN_000000000127382",
+      "title": "[충남] 2026년 제63회 무역의 날 기념 수출탑 및 수출유공자 표창 공고",
+      "dday": 18,
+      "region": "충남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-11-10",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127382",
+      "createdAt": "2026-10-22 09:15:41"
+    },
+    {
+      "id": "PBLN_000000000127379",
+      "title": "2026년 4차 기술개발제품 시범구매 지원계획 공고",
+      "dday": 18,
+      "region": "전국",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-11-10",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127379",
+      "createdAt": "2026-10-21 14:26:25"
+    },
+    {
       "id": "PBLN_000000000127347",
       "title": "[충남] 2026년 2차 산업(농공)단지 태양광ㆍESS 설치지원 사업 공고",
-      "dday": 20,
+      "dday": 18,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2832,7 +2909,7 @@
     {
       "id": "PBLN_000000000127328",
       "title": "2026년 TEL VENTURE CAPITAL X 충남창조경제혁신센터 Nexus Connect 투자 밋업 데이 참여기업 모집 공고",
-      "dday": 20,
+      "dday": 18,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -2843,7 +2920,7 @@
     {
       "id": "PBLN_000000000127308",
       "title": "[전북] 2027년 시군거점 축산물 산지가공 유통시설구축 사업 공고",
-      "dday": 20,
+      "dday": 18,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2854,7 +2931,7 @@
     {
       "id": "PBLN_000000000127192",
       "title": "[제주] 서귀포시 2026년 하반기 청년농업인 농지임대료 지원사업 공고",
-      "dday": 20,
+      "dday": 18,
       "region": "제주",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2865,7 +2942,7 @@
     {
       "id": "PBLN_000000000127191",
       "title": "[제주] 제주시 하반기 2026년 청년농업인 농지임대료 지원사업 공고",
-      "dday": 20,
+      "dday": 18,
       "region": "제주",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2876,7 +2953,7 @@
     {
       "id": "PBLN_000000000127129",
       "title": "2026년 에너지기술 수용성 제고 및 사업화 촉진 사업 신규지원 대상 연구개발과제 공고",
-      "dday": 20,
+      "dday": 18,
       "region": "기후",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2885,9 +2962,20 @@
       "createdAt": "2026-10-12 14:33:11"
     },
     {
+      "id": "PBLN_000000000127411",
+      "title": "2026년 강원연구개발특구육성(R&D)사업 강원 특구 배치 프로그램 1기 창업기업 모집 공고",
+      "dday": 19,
+      "region": "강원",
+      "amount": "지원금 있음",
+      "target": "창업벤처",
+      "deadline": "2026-10-21 ~ 2026-11-11",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127411",
+      "createdAt": "2026-10-22 14:06:45"
+    },
+    {
       "id": "PBLN_000000000127130",
       "title": "2026년 연구개발특구 기술사업화대상 후보자 추천 공고",
-      "dday": 21,
+      "dday": 19,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2896,9 +2984,20 @@
       "createdAt": "2026-10-12 14:42:13"
     },
     {
+      "id": "PBLN_000000000127392",
+      "title": "[전남광주] 2026년 제4회 중소기업 밀집지역 위기기업을 위한 원스톱 중소기업 현장지원단 참가기업 모집 공고",
+      "dday": 20,
+      "region": "전남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-11-12",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127392",
+      "createdAt": "2026-10-22 10:17:06"
+    },
+    {
       "id": "PBLN_000000000127234",
       "title": "2026년 핀테크 라이징 스타 챌린지 참가자 모집 공고(전북핀테크지원센터 지정 운영 사업)",
-      "dday": 22,
+      "dday": 20,
       "region": "전북",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -2909,7 +3008,7 @@
     {
       "id": "PBLN_000000000127197",
       "title": "2026년 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고 (공정ㆍ응용 솔루션 AX R&D, 응용 제품 AX R&D)",
-      "dday": 22,
+      "dday": 20,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2920,7 +3019,7 @@
     {
       "id": "PBLN_000000000127126",
       "title": "[대구] 남구 2026년 남구다운 청년 창업 지원사업 통합 수정 공고",
-      "dday": 22,
+      "dday": 20,
       "region": "대구",
       "amount": "최대 2,000만원",
       "target": "창업벤처",
@@ -2929,9 +3028,53 @@
       "createdAt": "2026-10-12 14:14:15"
     },
     {
+      "id": "PBLN_000000000127403",
+      "title": "2027년 논산세계딸기산업엑스포 수출상담회 참가기업 추가모집 공고",
+      "dday": 21,
+      "region": "충남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-11-13",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127403",
+      "createdAt": "2026-10-22 13:16:55"
+    },
+    {
+      "id": "PBLN_000000000127402",
+      "title": "[부산] 기장군 LH임대주택 중소기업 근로자 공공임대주택 기관공급 사업 대상기업 모집계획 공고",
+      "dday": 21,
+      "region": "부산",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-11-13",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127402",
+      "createdAt": "2026-10-22 13:15:26"
+    },
+    {
+      "id": "PBLN_000000000127386",
+      "title": "[대구] 2026년 스마트시티 혁신기술 발굴사업 스마트시티 혁신기술 실증 지원 기업 모집 공고",
+      "dday": 21,
+      "region": "대구",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-21 ~ 2026-11-13",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127386",
+      "createdAt": "2026-10-22 09:40:41"
+    },
+    {
+      "id": "PBLN_000000000127358",
+      "title": "2027년 상반기 IBK창공(創工) 혁신 창업기업 모집 공고",
+      "dday": 21,
+      "region": "금융",
+      "amount": "지원금 있음",
+      "target": "창업벤처",
+      "deadline": "2026-10-19 ~ 2026-11-13",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127358",
+      "createdAt": "2026-10-21 09:56:42"
+    },
+    {
       "id": "PBLN_000000000127350",
       "title": "[경기] 안산시 2026년 일자리 창출 장려를 위한 고용우수기업 인증제 시행 공고",
-      "dday": 23,
+      "dday": 21,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2942,7 +3085,7 @@
     {
       "id": "PBLN_000000000127327",
       "title": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고",
-      "dday": 23,
+      "dday": 21,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2953,7 +3096,7 @@
     {
       "id": "PBLN_000000000127267",
       "title": "2027년 도약(Jump-Up) 프로그램 참여기업 모집 공고",
-      "dday": 23,
+      "dday": 21,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2964,7 +3107,7 @@
     {
       "id": "PBLN_000000000127199",
       "title": "2026년 미래개척융합과학기술개발사업(한계돌파 R&D) 신규과제 공고",
-      "dday": 23,
+      "dday": 21,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2975,7 +3118,7 @@
     {
       "id": "PBLN_000000000127188",
       "title": "2026년 3차 해외규격인증획득지원사업(일반지원) 참여기업 모집 공고",
-      "dday": 23,
+      "dday": 21,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2986,7 +3129,7 @@
     {
       "id": "PBLN_000000000127106",
       "title": "[비수도권] 2026년 이노비즈 코칭 지원 모집 공고",
-      "dday": 23,
+      "dday": 21,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -2997,7 +3140,7 @@
     {
       "id": "PBLN_000000000126812",
       "title": "2026년 딥테크 챌린지 프로젝트 기술도전형 제2차 기술수요조사 시행계획 공고",
-      "dday": 23,
+      "dday": 21,
       "region": "전국",
       "amount": "최대 50억원",
       "target": "중소기업",
@@ -3008,7 +3151,7 @@
     {
       "id": "PBLN_000000000126190",
       "title": "2026년 2차 지역산업위기대응 이차보전 지원사업 변경 공고",
-      "dday": 23,
+      "dday": 21,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3019,7 +3162,7 @@
     {
       "id": "PBLN_000000000127298",
       "title": "2027년 나노반도체 연구성과 실용화 지원사업 (혁신기업 양산시제품 개발지원) 신규과제 공고",
-      "dday": 25,
+      "dday": 23,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3030,7 +3173,7 @@
     {
       "id": "PBLN_000000000127282",
       "title": "[경남] 의령군 2026년 청년 일경험(인턴) 지원사업 참여기업 모집 재공고",
-      "dday": 26,
+      "dday": 24,
       "region": "경남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3041,7 +3184,7 @@
     {
       "id": "PBLN_000000000127270",
       "title": "2026년 AI 기반 주파수 간섭분석 및 전파예측기술 개발사업 신규지원 대상과제 공고",
-      "dday": 26,
+      "dday": 24,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3052,7 +3195,7 @@
     {
       "id": "PBLN_000000000127268",
       "title": "2026년 2차 공급망안정화 선도사업자 선정계획 공고",
-      "dday": 26,
+      "dday": 24,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3063,7 +3206,7 @@
     {
       "id": "PBLN_000000000126956",
       "title": "[전북] 2026년 3분기 소기업 혁신역량 강화사업 시험분석 및 품질인증획득지원 참여기업 모집 공고",
-      "dday": 26,
+      "dday": 24,
       "region": "전북",
       "amount": "최대 150만원",
       "target": "중소기업",
@@ -3074,7 +3217,7 @@
     {
       "id": "PBLN_000000000126611",
       "title": "2026년 모두의 아이디어 지정공모 기업부문 참여기업 모집 공고",
-      "dday": 26,
+      "dday": 24,
       "region": "지식",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3085,7 +3228,7 @@
     {
       "id": "PBLN_000000000126723",
       "title": "2026년 하반기 기상청 혁신제품 지정 추진계획 공고",
-      "dday": 27,
+      "dday": 25,
       "region": "기상",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3094,9 +3237,20 @@
       "createdAt": "2026-09-22 13:36:10"
     },
     {
+      "id": "PBLN_000000000127372",
+      "title": "2026년 호남권 AX랩 지능형농업 데이터 활용 경진대회 공고(AI융합 지능형 농업 생태계 구축 사업)",
+      "dday": 26,
+      "region": "전북",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-19 ~ 2026-11-18",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127372",
+      "createdAt": "2026-10-21 13:33:54"
+    },
+    {
       "id": "PBLN_000000000127337",
       "title": "[충북] 2026년 이탈리아 볼로냐 코스모프로프 참여기업 모집 공고",
-      "dday": 29,
+      "dday": 27,
       "region": "충북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3105,9 +3259,20 @@
       "createdAt": "2026-10-20 13:20:39"
     },
     {
+      "id": "PBLN_000000000127406",
+      "title": "[인천] 2026 중소기업 지식재산 기반 기술경쟁력 강화 통합지원 공고",
+      "dday": 28,
+      "region": "인천",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "2026-10-20 ~ 2026-11-20",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127406",
+      "createdAt": "2026-10-22 13:42:34"
+    },
+    {
       "id": "PBLN_000000000127273",
       "title": "[대전] 2026년 우리동네 맑은공기 패키지 지원사업(대전산단) 공고",
-      "dday": 30,
+      "dday": 28,
       "region": "대전",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3118,7 +3283,7 @@
     {
       "id": "PBLN_000000000126991",
       "title": "[경북] 2026년 글로벌 비즈니스 스케일업 지원사업 참여기업 추가모집 공고",
-      "dday": 30,
+      "dday": 28,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3129,7 +3294,7 @@
     {
       "id": "PBLN_000000000127202",
       "title": "2026년 2차 제주 로케이션 영상물 제작비 지원사업 공고",
-      "dday": 35,
+      "dday": 33,
       "region": "제주",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3140,7 +3305,7 @@
     {
       "id": "PBLN_000000000126490",
       "title": "2026년 K-소비재 수출기업 대상 한류편승행위 대응 지원사업 참여기업 모집 변경 공고",
-      "dday": 37,
+      "dday": 35,
       "region": "지식",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3151,7 +3316,7 @@
     {
       "id": "PBLN_000000000127344",
       "title": "[충남] 공주시 2027년 대한민국 밤산업 박람회 해외바이어 초청 수출상담회 참여기업 모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3162,7 +3327,7 @@
     {
       "id": "PBLN_000000000127287",
       "title": "[경북] 포항시 2026년 소상공인 대상 무료 택시지붕광고 참여업체 추가모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -3173,7 +3338,7 @@
     {
       "id": "PBLN_000000000127265",
       "title": "2026년 온라인수출플랫폼 사업 수출계약 대응 지원 참여기업 모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "전국",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3184,7 +3349,7 @@
     {
       "id": "PBLN_000000000127203",
       "title": "[경기] 2026년 4차 사물인터넷(IoT) 설치 지원사업 모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3195,7 +3360,7 @@
     {
       "id": "PBLN_000000000127049",
       "title": "[전남광주] 목포시 2026년 김 수출 안전성 검사비 지원사업 신청 추가 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3206,7 +3371,7 @@
     {
       "id": "PBLN_000000000126996",
       "title": "[경북] 찾아가는 안전한 작업환경조성 지원사업 참여기업 모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3217,7 +3382,7 @@
     {
       "id": "PBLN_000000000126976",
       "title": "2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "문화",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3228,7 +3393,7 @@
     {
       "id": "PBLN_000000000126899",
       "title": "[강원] 홍천군 2026년 사물인터넷(IoT) 측정기기 부착 지원사업 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3239,7 +3404,7 @@
     {
       "id": "PBLN_000000000126833",
       "title": "2026년 AI 기반 바이오 소재 융복합 제품의 정보분석 및 특허 창출 지원 사업 수혜기업 모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3250,7 +3415,7 @@
     {
       "id": "PBLN_000000000126507",
       "title": "2026년 중소기업 특성화고 인력양성사업 참여기업 모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "전국",
       "amount": "최대 720만원",
       "target": "중소기업",
@@ -3261,7 +3426,7 @@
     {
       "id": "PBLN_000000000126444",
       "title": "2026년 하반기 직무발명제도 컨설팅 신청 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "지식",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3272,7 +3437,7 @@
     {
       "id": "PBLN_000000000126442",
       "title": "[강원] 2026년 멤버십 기업ㆍ졸업팀 등 특화 멘토링 지원사업 참여기업 모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "고용",
       "amount": "지원금 있음",
       "target": "창업벤처",
@@ -3283,7 +3448,7 @@
     {
       "id": "PBLN_000000000126426",
       "title": "[경남] 2026년 ICT 중소기업 정보보호 지원 사업 수요기업 모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "경남",
       "amount": "최대 360만원",
       "target": "중소기업",
@@ -3294,7 +3459,7 @@
     {
       "id": "PBLN_000000000126389",
       "title": "2026년 하반기 서산시 단체관광객 유치 인센티브 지원 사업 모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "충남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3305,7 +3470,7 @@
     {
       "id": "PBLN_000000000126253",
       "title": "[전남광주] 2026년 정부출연연 연계 패밀리기업 추가모집 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3316,7 +3481,7 @@
     {
       "id": "PBLN_000000000126246",
       "title": "[경북] 2026년 경량소재산업 경쟁력강화 기술지원사업 연구기관 장비활용 기업지원 재공고",
-      "dday": 40,
+      "dday": 38,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3327,7 +3492,7 @@
     {
       "id": "PBLN_000000000126215",
       "title": "[경북] 봉화군 2026년 소상공인 카드수수료 지원사업 참여점포 모집 변경 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "경북",
       "amount": "최대 40만원",
       "target": "소상공인",
@@ -3338,7 +3503,7 @@
     {
       "id": "PBLN_000000000126212",
       "title": "[경북] 예천군 2026년 소상공인 카드수수료 지원사업 참여점포 모집 변경 공고",
-      "dday": 40,
+      "dday": 38,
       "region": "경북",
       "amount": "최대 40만원",
       "target": "소상공인",
@@ -3349,7 +3514,7 @@
     {
       "id": "PBLN_000000000126146",
       "title": "[강원] 2026년 강원권 디자인법률자문 서비스 운영 공고(디자인법률자문단 운영사업)",
-      "dday": 40,
+      "dday": 38,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3358,31 +3523,9 @@
       "createdAt": "2026-09-04 09:26:24"
     },
     {
-      "id": "PBLN_000000000125920",
-      "title": "[경북] 2026년 중소기업 글로벌 온라인몰 입점 지원 참가기업 추가 모집 공고",
-      "dday": 40,
-      "region": "경북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-08-27 ~ 2026-11-30",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125920",
-      "createdAt": "2026-08-28 13:29:25"
-    },
-    {
-      "id": "PBLN_000000000125834",
-      "title": "[경북] 구미시 2026년 청년 정착 인턴십 지원사업 청년예비취업자 인턴십 참여기업 모집 공고",
-      "dday": 40,
-      "region": "경북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-08-25 ~ 2026-11-30",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125834",
-      "createdAt": "2026-08-26 13:58:07"
-    },
-    {
       "id": "PBLN_000000000126633",
       "title": "[강원] 삼척시 2026년 지역농산물 수출장려금 지원사업 공고",
-      "dday": 44,
+      "dday": 42,
       "region": "강원",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3391,20 +3534,9 @@
       "createdAt": "2026-09-18 13:27:06"
     },
     {
-      "id": "PBLN_000000000126014",
-      "title": "[강원] 2026년 디자인어워드(해외) 출품지원 참여기업 모집 재공고",
-      "dday": 44,
-      "region": "강원",
-      "amount": "최대 200만원",
-      "target": "중소기업",
-      "deadline": "2026-08-20 ~ 2026-12-04",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126014",
-      "createdAt": "2026-09-01 13:09:33"
-    },
-    {
       "id": "PBLN_000000000127141",
       "title": "2026년 친환경 쇄빙ㆍ내빙선 신조 지원사업 시행 변경 공고",
-      "dday": 49,
+      "dday": 47,
       "region": "해양",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3415,7 +3547,7 @@
     {
       "id": "PBLN_000000000126741",
       "title": "[부산] 2026년 신발산업 해외물류 바우처 지원사업 참가기업 모집 공고",
-      "dday": 51,
+      "dday": 49,
       "region": "부산",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3426,7 +3558,7 @@
     {
       "id": "PBLN_000000000126978",
       "title": "[충북] 2026년 4분기 청년 소상공인 창업응원금 지원 참여자 모집 공고",
-      "dday": 58,
+      "dday": 56,
       "region": "충북",
       "amount": "지원금 있음",
       "target": "소상공인",
@@ -3437,7 +3569,7 @@
     {
       "id": "PBLN_000000000126296",
       "title": "[제주] 서귀포시 2026년 소상공인 출산급여 지원사업 공고",
-      "dday": 60,
+      "dday": 58,
       "region": "제주",
       "amount": "지원금 있음",
       "target": "여성기업",
@@ -3448,7 +3580,7 @@
     {
       "id": "PBLN_000000000126930",
       "title": "2027년 한국표준과학연구원(KRISS) 기술홈닥터 지원사업 참여기업 모집 공고",
-      "dday": 65,
+      "dday": 63,
       "region": "과학",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3459,7 +3591,7 @@
     {
       "id": "PBLN_000000000127174",
       "title": "[경기] 포천시 2026년 사물인터넷(IoT) 측정기기 부착 지원사업 수정 공고",
-      "dday": 71,
+      "dday": 69,
       "region": "경기",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3470,7 +3602,7 @@
     {
       "id": "PBLN_000000000126910",
       "title": "AI기반 슬립테크 국제협력 실증 확산 지원사업 기업지원 공고(국제공인시험 지원)",
-      "dday": 71,
+      "dday": 69,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3481,7 +3613,7 @@
     {
       "id": "PBLN_000000000126743",
       "title": "2026년 하반기 인천 단체관광객 유치 인센티브제 운영 공고",
-      "dday": 71,
+      "dday": 69,
       "region": "인천",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3492,7 +3624,7 @@
     {
       "id": "PBLN_000000000126438",
       "title": "[경북] 2026년 중대재해 예방 사각지대 해소 지원사업 참여기업 모집 변경 공고",
-      "dday": 71,
+      "dday": 69,
       "region": "경북",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3503,7 +3635,7 @@
     {
       "id": "PBLN_000000000126343",
       "title": "2026년 3차 물리ㆍ화학적 시험평가인증 지원사업 공고(메카노바이오활성소재 혁신의료기기 실증 기반구축)",
-      "dday": 71,
+      "dday": 69,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3514,7 +3646,7 @@
     {
       "id": "PBLN_000000000126273",
       "title": "[전남광주] 곡성군 2026년 4차 신중년 희망일자리 장려금 지원사업 참여기업 모집 공고",
-      "dday": 71,
+      "dday": 69,
       "region": "전남",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3525,7 +3657,7 @@
     {
       "id": "PBLN_000000000126265",
       "title": "대한상공회의소 무료 경영상담 지원사업 공고",
-      "dday": 71,
+      "dday": 69,
       "region": "서울",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3536,7 +3668,7 @@
     {
       "id": "PBLN_000000000126100",
       "title": "2026년 3차 서울테크노파크 수요기술조사사업 참여기업 모집 공고",
-      "dday": 71,
+      "dday": 69,
       "region": "서울",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3545,20 +3677,9 @@
       "createdAt": "2026-09-03 09:52:23"
     },
     {
-      "id": "PBLN_000000000125893",
-      "title": "[제주] 소상공인 민생회복 대출안심보험 지원사업 공고",
-      "dday": 71,
-      "region": "제주",
-      "amount": "지원금 있음",
-      "target": "소상공인",
-      "deadline": "2026-09-01 ~ 2026-12-31",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125893",
-      "createdAt": "2026-08-28 09:26:03"
-    },
-    {
       "id": "PBLN_000000000126715",
       "title": "2026년 산업기술국제협력(양자-스페인) 접수 공고",
-      "dday": 99,
+      "dday": 97,
       "region": "산업",
       "amount": "지원금 있음",
       "target": "중소기업",
@@ -3567,26 +3688,81 @@
       "createdAt": "2026-09-22 13:06:12"
     },
     {
-      "id": "PBLN_000000000125997",
-      "title": "2026년 중소기업제품 전용판매장(면세장) 참여기업 모집 공고",
-      "dday": 252,
-      "region": "전국",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "2026-09-01 ~ 2027-06-30",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125997",
-      "createdAt": "2026-09-01 09:44:59"
-    },
-    {
       "id": "PBLN_000000000126059",
       "title": "[충북] 2026년 충북소상공인지원센터 소상공인 상생보험 지원사업 참여자 모집 공고",
-      "dday": 314,
+      "dday": 312,
       "region": "충북",
       "amount": "지원금 있음",
       "target": "소상공인",
       "deadline": "2026-09-01 ~ 2027-08-31",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126059",
       "createdAt": "2026-09-02 11:02:24"
+    },
+    {
+      "id": "PBLN_000000000127399",
+      "title": "[서울] 서초구 2026년 하반기 중소기업육성기금 융자지원 공고",
+      "dday": 999,
+      "region": "서울",
+      "amount": "5천만원",
+      "target": "중소기업",
+      "deadline": "예산 소진시까지",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127399",
+      "createdAt": "2026-10-22 11:10:19"
+    },
+    {
+      "id": "PBLN_000000000127391",
+      "title": "[경북] 2026년 중소벤처기업 지식재산권 및 해외인증 지원사업 참가기업 추가 모집 공고",
+      "dday": 999,
+      "region": "경북",
+      "amount": "최대 500만원",
+      "target": "중소기업",
+      "deadline": "예산 소진시까지",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127391",
+      "createdAt": "2026-10-22 10:08:35"
+    },
+    {
+      "id": "PBLN_000000000127380",
+      "title": "[전북] 김제시 2026년 5차 지역특화형(농ㆍ식품기업) 스마트공장 구축지원 사업 공고",
+      "dday": 999,
+      "region": "전국",
+      "amount": "8억원",
+      "target": "중소기업",
+      "deadline": "모집 완료시까지",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127380",
+      "createdAt": "2026-10-21 14:50:20"
+    },
+    {
+      "id": "PBLN_000000000127378",
+      "title": "[전남광주] 순천시 2026년 착한가격업소 신규 모집 공고",
+      "dday": 999,
+      "region": "전남",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "상시 접수",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127378",
+      "createdAt": "2026-10-21 14:08:28"
+    },
+    {
+      "id": "PBLN_000000000127373",
+      "title": "2026년 시설농업 AI로봇 실증기반 구축사업 기술지원(기술지도) 수혜기업 모집 공고",
+      "dday": 999,
+      "region": "산업",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "상시 접수",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127373",
+      "createdAt": "2026-10-21 13:41:17"
+    },
+    {
+      "id": "PBLN_000000000127363",
+      "title": "[경북] 포항시 2026년 2차 이차전지 업종전환 지원사업(컨설팅) 수혜기업 모집 공고",
+      "dday": 999,
+      "region": "경북",
+      "amount": "지원금 있음",
+      "target": "중소기업",
+      "deadline": "모집 완료까지 상시 접수",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127363",
+      "createdAt": "2026-10-21 10:33:06"
     },
     {
       "id": "PBLN_000000000127346",
@@ -3752,17 +3928,6 @@
       "deadline": "예산 소진시까지",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127205",
       "createdAt": "2026-10-14 13:32:16"
-    },
-    {
-      "id": "PBLN_000000000127204",
-      "title": "[경남] 2026년 스마트공장 컨설팅 지원사업 참여기업 추가모집 공고",
-      "dday": 999,
-      "region": "경남",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "모집 완료시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127204",
-      "createdAt": "2026-10-14 13:25:37"
     },
     {
       "id": "PBLN_000000000127200",
@@ -5250,17 +5415,6 @@
       "createdAt": "2026-09-02 14:11:44"
     },
     {
-      "id": "PBLN_000000000126077",
-      "title": "[제주] 2026년 청년 취업지원 희망프로젝트 참여기업 모집 변경 공고",
-      "dday": 999,
-      "region": "제주",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "차수별 상이",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126077",
-      "createdAt": "2026-09-02 13:42:56"
-    },
-    {
       "id": "PBLN_000000000126068",
       "title": "[울산] 2026년 4차 소상공인 경영안정자금 융자지원계획 공고",
       "dday": 999,
@@ -5347,160 +5501,6 @@
       "deadline": "예산 소진시까지",
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126039",
       "createdAt": "2026-09-01 14:18:44"
-    },
-    {
-      "id": "PBLN_000000000126038",
-      "title": "[충북] 증평군 2026년 기숙사임차비지원사업 참여기업 모집 공고",
-      "dday": 999,
-      "region": "충북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "예산 소진시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126038",
-      "createdAt": "2026-09-01 14:18:14"
-    },
-    {
-      "id": "PBLN_000000000125974",
-      "title": "[경남] 진주시 2026년 발달장애인 가족창업 컨설팅 지원 모집 공고",
-      "dday": 999,
-      "region": "경남",
-      "amount": "지원금 있음",
-      "target": "장애인기업",
-      "deadline": "예산 소진시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125974",
-      "createdAt": "2026-08-31 13:31:53"
-    },
-    {
-      "id": "PBLN_000000000125943",
-      "title": "[부산] 동래구 2026년 청년기업 인증 및 지원 계획 공고",
-      "dday": 999,
-      "region": "부산",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "상시 접수",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125943",
-      "createdAt": "2026-08-28 14:45:09"
-    },
-    {
-      "id": "PBLN_000000000125928",
-      "title": "[경남] 창원시 2026년 강소특구 이노테크 기업육성 AI-CNC 기반 제품 실증 및 성능 검증 지원 사업 공고",
-      "dday": 999,
-      "region": "경남",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "예산 소진시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125928",
-      "createdAt": "2026-08-28 13:41:51"
-    },
-    {
-      "id": "PBLN_000000000125916",
-      "title": "패션 브랜드 협업활성화 원단지원 기업 모집 공고(원단 제공기업 대상 디자인 협업 및 홍보ㆍ마케팅 지원)",
-      "dday": 999,
-      "region": "산업",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "상시 접수",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125916",
-      "createdAt": "2026-08-28 13:16:57"
-    },
-    {
-      "id": "PBLN_000000000125898",
-      "title": "[경기] 2026년 기술보호 전문교육 및 산업보안 컨설팅 지원 참여기업(기관) 모집 공고",
-      "dday": 999,
-      "region": "경기",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "예산 소진시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125898",
-      "createdAt": "2026-08-28 09:45:38"
-    },
-    {
-      "id": "PBLN_000000000125890",
-      "title": "[울산] 2026년 소상공인 온라인 판로ㆍ마케팅 지원 사업 공고",
-      "dday": 999,
-      "region": "울산",
-      "amount": "지원금 있음",
-      "target": "소상공인",
-      "deadline": "예산 소진시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125890",
-      "createdAt": "2026-08-27 14:56:04"
-    },
-    {
-      "id": "PBLN_000000000125888",
-      "title": "[전남광주] 2026년 AI융합 지능형 농업 생태계 구축 인공지능 기술 고도화(신뢰성평가) 지원사업 추가 모집 공고",
-      "dday": 999,
-      "region": "전남",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "차수별 상이",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125888",
-      "createdAt": "2026-08-27 14:42:28"
-    },
-    {
-      "id": "PBLN_000000000125866",
-      "title": "2026년 여수시 단체관광객 유치 인센티브 지원 계획 변경 공고",
-      "dday": 999,
-      "region": "전남",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "예산 소진시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125866",
-      "createdAt": "2026-08-27 13:28:44"
-    },
-    {
-      "id": "PBLN_000000000125865",
-      "title": "[전북] 수출통합지원센터 수출애로 해소 전문가 컨설팅 지원사업 참여기업 모집 공고",
-      "dday": 999,
-      "region": "전북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "예산 소진시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125865",
-      "createdAt": "2026-08-27 13:16:47"
-    },
-    {
-      "id": "PBLN_000000000125856",
-      "title": "[세종] 2026년 2차 중소기업육성자금 지원계획 변경 공고",
-      "dday": 999,
-      "region": "세종",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "예산 소진시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125856",
-      "createdAt": "2026-08-27 10:48:43"
-    },
-    {
-      "id": "PBLN_000000000125847",
-      "title": "[전북] 2026년 식품기업 창업프로그램 지원사업 스마트 푸드테크 LAB 현장애로 해결 자문 프로그램 참여기업 모집 공고",
-      "dday": 999,
-      "region": "전북",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "예산 소진시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125847",
-      "createdAt": "2026-08-26 14:57:17"
-    },
-    {
-      "id": "PBLN_000000000125838",
-      "title": "[대구] QR 다국어 메뉴판 제작사업 참여 사업체 모집 공고",
-      "dday": 999,
-      "region": "대구",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "모집 완료시까지",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125838",
-      "createdAt": "2026-08-26 14:14:19"
-    },
-    {
-      "id": "PBLN_000000000125831",
-      "title": "[대구] 2026년 스타기업 육성사업 R&D 과제 발굴 및 기획 지원 공고",
-      "dday": 999,
-      "region": "대구",
-      "amount": "지원금 있음",
-      "target": "중소기업",
-      "deadline": "상시 접수",
-      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125831",
-      "createdAt": "2026-08-26 13:46:40"
     }
   ]
 }
